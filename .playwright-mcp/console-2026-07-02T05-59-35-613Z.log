@@ -4,3 +4,590 @@
 [  374344ms] [LOG] [Fast Refresh] done in 185ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
 [  648135ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
 [  648272ms] [LOG] [Fast Refresh] done in 251ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[ 1142416ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[ 1142418ms] [LOG] [Fast Refresh] done in 105ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[ 1430007ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[ 1430041ms] [LOG] [Fast Refresh] done in 140ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[ 1456049ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[ 1456145ms] [LOG] [Fast Refresh] done in 173ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[ 1464694ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[ 1465065ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[ 1465066ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[ 1465144ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[ 1465146ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[ 1465262ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[ 1465607ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[ 1465608ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[ 1465609ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/?_rsc=q3mOO9BClNZHexY7:0
+[ 1465701ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/?_rsc=q3mOO9BClNZHexY7:0
+[ 1465706ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[ 1465707ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[ 1465818ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[ 1466010ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_0kla17-._.js:15305
+[ 1466135ms] Error: ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx
+
+
+    at <unknown> (Error: ./src/components/ProductCatalog.tsx:7:1)
+    at Object.getCompilationErrors (file://C:\Users\FARAZ KHAN\Desktop\free work\anas-jewellers\node_modules\next\dist\server\dev\hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file://C:\Users\FARAZ KHAN\Desktop\free work\anas-jewellers\node_modules\next\dist\server\lib\dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file://C:\Users\FARAZ KHAN\Desktop\free work\anas-jewellers\node_modules\next\dist\server\dev\next-dev-server.js:720:42)
+    at DevServer.findPageComponents (file://C:\Users\FARAZ KHAN\Desktop\free work\anas-jewellers\node_modules\next\dist\server\dev\next-dev-server.js:690:43)
+    at async DevServer.renderErrorToResponseImpl (file://C:\Users\FARAZ KHAN\Desktop\free work\anas-jewellers\node_modules\next\dist\server\base-server.js:1753:26)
+[ 1466137ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1466150ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1466151ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1466294ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1466298ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1466298ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1471551ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1471690ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[ 1471813ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_0kla17-._.js:15305
+[ 1471840ms] Error: ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx
+
+
+    at <unknown> (Error: ./src/components/ProductCatalog.tsx:7:1)
+    at Object.getCompilationErrors (file://C:\Users\FARAZ KHAN\Desktop\free work\anas-jewellers\node_modules\next\dist\server\dev\hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file://C:\Users\FARAZ KHAN\Desktop\free work\anas-jewellers\node_modules\next\dist\server\lib\dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file://C:\Users\FARAZ KHAN\Desktop\free work\anas-jewellers\node_modules\next\dist\server\dev\next-dev-server.js:720:42)
+    at DevServer.findPageComponents (file://C:\Users\FARAZ KHAN\Desktop\free work\anas-jewellers\node_modules\next\dist\server\dev\next-dev-server.js:690:43)
+    at async DevServer.renderErrorToResponseImpl (file://C:\Users\FARAZ KHAN\Desktop\free work\anas-jewellers\node_modules\next\dist\server\base-server.js:1753:26)
+[ 1471843ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1471871ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1471873ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1472001ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1472005ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1472005ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1478296ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1478300ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1478300ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1478724ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1478724ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1478788ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1479750ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1479751ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1479813ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1481627ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1481628ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1481720ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1482190ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1482191ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1482250ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1482314ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-client] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1482314ms] [ERROR] ./src/components/ProductCatalog.tsx:7:1
+Export siteConfig doesn't exist in target module
+   5 | import Image from "next/image";
+   6 | import { products, Product } from "@/config/products";
+>  7 | import { siteConfig } from "@/config/content";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function ProductCatalog() {
+  10 |   // Filter States
+
+The export siteConfig was not found in module [project]/src/config/content.ts [app-ssr] (ecmascript).
+Did you mean to import testimonials?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/components/ProductCatalog.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[ 1482374ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1484831ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1485205ms] [LOG] [Fast Refresh] done in 106ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1485426ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1485453ms] [LOG] [Fast Refresh] done in 133ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[ 1486017ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[ 1486206ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477

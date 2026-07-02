@@ -1,0 +1,1028 @@
+- generic [active] [ref=f15e1]:
+  - generic [ref=f15e2]:
+    - img [ref=f15e3]
+    - generic [ref=f15e5]:
+      - generic [ref=f15e6]: Anas & Sons
+      - generic [ref=f15e7]: Jewellers
+  - navigation [ref=f15e9]:
+    - generic [ref=f15e10]:
+      - link "Anas & Sons Jewellers . Since 1988" [ref=f15e11] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=f15e12]: Anas & Sons
+        - generic [ref=f15e13]: Jewellers . Since 1988
+      - generic [ref=f15e14]:
+        - link "Collections" [ref=f15e15] [cursor=pointer]:
+          - /url: "#collections"
+          - text: Collections
+        - link "Catalog" [ref=f15e16] [cursor=pointer]:
+          - /url: "#catalog"
+          - text: Catalog
+        - link "Atelier" [ref=f15e17] [cursor=pointer]:
+          - /url: "#featured"
+          - text: Atelier
+        - link "Heritage" [ref=f15e18] [cursor=pointer]:
+          - /url: "#heritage"
+          - text: Heritage
+        - link "Gallery" [ref=f15e19] [cursor=pointer]:
+          - /url: "#gallery"
+          - text: Gallery
+        - link "Showroom" [ref=f15e20] [cursor=pointer]:
+          - /url: "#showroom"
+          - text: Showroom
+        - link "Contact" [ref=f15e21] [cursor=pointer]:
+          - /url: "#contact"
+          - text: Contact
+      - link "Enquire" [ref=f15e23] [cursor=pointer]:
+        - /url: https://wa.me/919953656749?text=Hi%2C%20I%20saw%20your%20website%20and%20I%20am%20interested%20in%20your%20jewellery%20collection.%20Can%20you%20help%20me%3F
+        - text: Enquire
+  - main [ref=f15e25]:
+    - generic [ref=f15e26]:
+      - generic [ref=f15e33]:
+        - generic [ref=f15e36]: Est. 1988
+        - heading "The Art of" [level=1] [ref=f15e38]
+        - heading "Timeless Luxury" [level=1] [ref=f15e40]
+        - paragraph [ref=f15e41]: Gold. Silver. Diamond. Crafted with care and precision for nearly four decades. Okhla's largest jewellery showroom.
+        - generic [ref=f15e42]:
+          - link "Enquire Now" [ref=f15e43]:
+            - /url: https://wa.me/919953656749?text=Hi%2C%20I%20saw%20your%20website%20and%20I%20am%20interested%20in%20your%20jewellery%20collection.%20Can%20you%20help%20me%3F
+            - img [ref=f15e44]
+            - text: Enquire Now
+          - link "Explore Collections" [ref=f15e46]:
+            - /url: "#collections"
+            - text: Explore Collections
+            - img [ref=f15e47]
+      - generic [ref=f15e51]: Scroll
+    - generic [ref=f15e54]:
+      - generic [ref=f15e55]:
+        - generic [ref=f15e58]: Our Collections
+        - heading "Crafted for Every Occasion" [level=2] [ref=f15e59]
+      - generic [ref=f15e60]:
+        - img "Gold Collection" [ref=f15e63]
+        - generic [ref=f15e66]:
+          - generic [ref=f15e67]: 18K to 22K Hallmarked
+          - heading "Gold Collection" [level=3] [ref=f15e68]
+          - paragraph [ref=f15e70]: Our gold collection spans Turkish, Italian, and traditional Indian designs. Every piece is BIS Hallmarked for certified purity. Whether you seek a delicate chain for daily wear or an elaborate bridal necklace, our master craftsmen shape each gram with nearly four decades of expertise.
+          - generic [ref=f15e71]:
+            - generic [ref=f15e72]: 18K to 22K Gold
+            - generic [ref=f15e73]: BIS Hallmarked
+            - generic [ref=f15e74]: Turkish & Italian Designs
+          - link "Enquire" [ref=f15e75]:
+            - /url: https://wa.me/919953656749?text=I%20am%20interested%20in%20your%20Gold%20Collection.%20Can%20you%20show%20me%20the%20latest%20designs%3F
+            - text: Enquire
+            - img [ref=f15e76]
+      - generic [ref=f15e78]:
+        - img "Diamond Jewellery" [ref=f15e81]
+        - generic [ref=f15e84]:
+          - generic [ref=f15e85]: Certified Brilliance
+          - heading "Diamond Jewellery" [level=3] [ref=f15e86]
+          - paragraph [ref=f15e88]: Each diamond in our collection is certified for cut, clarity, colour, and carat. Set in 18K or 22K gold or platinum, our diamond pieces range from solitaire rings to elaborate bridal sets. We work directly with cutters to ensure every stone meets our standard.
+          - generic [ref=f15e89]:
+            - generic [ref=f15e90]: Certified Diamonds
+            - generic [ref=f15e91]: Custom Settings
+            - generic [ref=f15e92]: Lifetime Exchange
+          - link "Enquire" [ref=f15e93]:
+            - /url: https://wa.me/919953656749?text=I%20am%20interested%20in%20your%20Diamond%20Collection.%20Can%20you%20share%20details%3F
+            - text: Enquire
+            - img [ref=f15e94]
+      - generic [ref=f15e96]:
+        - img "Silver Collection" [ref=f15e99]
+        - generic [ref=f15e102]:
+          - generic [ref=f15e103]: 925 Sterling
+          - heading "Silver Collection" [level=3] [ref=f15e104]
+          - paragraph [ref=f15e106]: Our silver collection features 925 sterling silver with rhodium plating for lasting shine. From statement earrings to delicate anklets, we blend modern minimalism with traditional Indian aesthetics.
+          - generic [ref=f15e107]:
+            - generic [ref=f15e108]: 925 Sterling Silver
+            - generic [ref=f15e109]: Antique Finishes
+            - generic [ref=f15e110]: Daily Wear Designs
+          - link "Enquire" [ref=f15e111]:
+            - /url: https://wa.me/919953656749?text=I%20am%20interested%20in%20your%20Silver%20Collection.%20Can%20you%20show%20me%20options%3F
+            - text: Enquire
+            - img [ref=f15e112]
+      - generic [ref=f15e114]:
+        - img "Bridal Sets" [ref=f15e117]
+        - generic [ref=f15e120]:
+          - generic [ref=f15e121]: Complete Trousseau
+          - heading "Bridal Sets" [level=3] [ref=f15e122]
+          - paragraph [ref=f15e124]: A wedding is once in a lifetime. Our bridal collection includes complete sets with necklace, earrings, maang tikka, haath phool, bangles, and anklets. We offer custom designing so every bride walks out with something made just for her.
+          - generic [ref=f15e125]:
+            - generic [ref=f15e126]: Complete Bridal Sets
+            - generic [ref=f15e127]: Custom Designing
+            - generic [ref=f15e128]: Family Heirlooms
+          - link "Enquire" [ref=f15e129]:
+            - /url: https://wa.me/919953656749?text=I%20am%20looking%20for%20a%20Bridal%20Set.%20Can%20we%20discuss%20designs%20and%20budget%3F
+            - text: Enquire
+            - img [ref=f15e130]
+    - generic [ref=f15e133]:
+      - generic [ref=f15e134]:
+        - generic [ref=f15e135]:
+          - generic [ref=f15e138]: The Atelier
+          - heading "Featured Pieces" [level=2] [ref=f15e139]
+        - link "View All" [ref=f15e140]:
+          - /url: "#collections"
+      - generic [ref=f15e142]:
+        - generic [ref=f15e143]:
+          - generic [ref=f15e144]:
+            - img "Infinity Gold Necklace" [ref=f15e145]
+            - generic [ref=f15e147]: Bestseller
+            - link "Enquire About This Piece" [ref=f15e149]:
+              - /url: https://wa.me/919953656749?text=I%20am%20interested%20in%3A%20Infinity%20Gold%20Necklace.%20Can%20you%20share%20the%20price%3F
+          - generic [ref=f15e150]:
+            - text: Gold
+            - heading "Infinity Gold Necklace" [level=4] [ref=f15e151]
+            - generic [ref=f15e152]:
+              - generic [ref=f15e153]: 22K Hallmarked
+              - generic [ref=f15e155]: 18.5g approx.
+            - paragraph [ref=f15e156]: Price on request
+        - generic [ref=f15e157]:
+          - generic [ref=f15e158]:
+            - img "Diamond Solitaire Ring" [ref=f15e159]
+            - generic [ref=f15e161]: New Arrival
+            - link "Enquire About This Piece" [ref=f15e163]:
+              - /url: https://wa.me/919953656749?text=I%20am%20interested%20in%3A%20Diamond%20Solitaire%20Ring.%20Can%20you%20share%20the%20price%3F
+          - generic [ref=f15e164]:
+            - text: Diamond
+            - heading "Diamond Solitaire Ring" [level=4] [ref=f15e165]
+            - generic [ref=f15e166]:
+              - generic [ref=f15e167]: 18K Gold Setting
+              - generic [ref=f15e169]: 0.50 Carat
+            - paragraph [ref=f15e170]: Price on request
+        - generic [ref=f15e171]:
+          - generic [ref=f15e172]:
+            - img "Italian Gold Bangle Set" [ref=f15e173]
+            - generic [ref=f15e175]: Popular
+            - link "Enquire About This Piece" [ref=f15e177]:
+              - /url: https://wa.me/919953656749?text=I%20am%20interested%20in%3A%20Italian%20Gold%20Bangle%20Set.%20Can%20you%20share%20the%20price%3F
+          - generic [ref=f15e178]:
+            - text: Gold
+            - heading "Italian Gold Bangle Set" [level=4] [ref=f15e179]
+            - generic [ref=f15e180]:
+              - generic [ref=f15e181]: 22K Hallmarked
+              - generic [ref=f15e183]: 32g approx.
+            - paragraph [ref=f15e184]: Price on request
+        - generic [ref=f15e185]:
+          - generic [ref=f15e186]:
+            - img "Bridal Kundan Set" [ref=f15e187]
+            - generic [ref=f15e189]: Bridal Favourite
+            - link "Enquire About This Piece" [ref=f15e191]:
+              - /url: https://wa.me/919953656749?text=I%20am%20interested%20in%3A%20Bridal%20Kundan%20Set.%20Can%20you%20share%20the%20price%3F
+          - generic [ref=f15e192]:
+            - text: Bridal
+            - heading "Bridal Kundan Set" [level=4] [ref=f15e193]
+            - generic [ref=f15e194]:
+              - generic [ref=f15e195]: 22K Gold with Kundan
+              - generic [ref=f15e197]: 85g approx.
+            - paragraph [ref=f15e198]: Price on request
+        - generic [ref=f15e199]:
+          - generic [ref=f15e200]:
+            - img "Turkish Chain Necklace" [ref=f15e201]
+            - generic [ref=f15e203]: Trending
+            - link "Enquire About This Piece" [ref=f15e205]:
+              - /url: https://wa.me/919953656749?text=I%20am%20interested%20in%3A%20Turkish%20Chain%20Necklace.%20Can%20you%20share%20the%20price%3F
+          - generic [ref=f15e206]:
+            - text: Gold
+            - heading "Turkish Chain Necklace" [level=4] [ref=f15e207]
+            - generic [ref=f15e208]:
+              - generic [ref=f15e209]: 21K Hallmarked
+              - generic [ref=f15e211]: 24g approx.
+            - paragraph [ref=f15e212]: Price on request
+    - generic [ref=f15e214]:
+      - generic [ref=f15e215]:
+        - generic [ref=f15e216]:
+          - generic [ref=f15e219]: Luxury Showroom
+          - heading "The Atelier Catalog" [level=2] [ref=f15e220]
+          - paragraph [ref=f15e221]: Browse Okhla's largest collection of fine gold, diamond, and sterling silver ornaments, crafted for generations.
+        - button "Reset All Filters" [ref=f15e222]
+      - generic [ref=f15e224]:
+        - button "All Masterpieces" [ref=f15e225]
+        - button "Rings" [ref=f15e226]
+        - button "Earrings" [ref=f15e227]
+        - button "Pendants" [ref=f15e228]
+        - button "Bangles & Bracelets" [ref=f15e229]
+        - button "Necklaces" [ref=f15e230]
+      - generic [ref=f15e231]:
+        - complementary [ref=f15e232]:
+          - generic [ref=f15e233]:
+            - heading "Refine Pieces" [level=3] [ref=f15e234]
+            - generic [ref=f15e235]:
+              - textbox "Search catalog..." [ref=f15e236]
+              - img [ref=f15e237]
+            - generic [ref=f15e239]:
+              - button "Metal / Material" [ref=f15e240]:
+                - generic [ref=f15e241]: Metal / Material
+                - img [ref=f15e242]
+              - generic [ref=f15e244]:
+                - generic [ref=f15e245] [cursor=pointer]:
+                  - checkbox "gold" [ref=f15e246]
+                  - generic [ref=f15e247]: gold
+                - generic [ref=f15e248] [cursor=pointer]:
+                  - checkbox "diamond" [ref=f15e249]
+                  - generic [ref=f15e250]: diamond
+                - generic [ref=f15e251] [cursor=pointer]:
+                  - checkbox "silver" [ref=f15e252]
+                  - generic [ref=f15e253]: silver
+            - generic [ref=f15e254]:
+              - button "Price Range" [ref=f15e255]:
+                - generic [ref=f15e256]: Price Range
+                - img [ref=f15e257]
+              - generic [ref=f15e259]:
+                - generic [ref=f15e260] [cursor=pointer]:
+                  - checkbox "Under ₹25,000" [ref=f15e261]
+                  - generic [ref=f15e262]: Under ₹25,000
+                - generic [ref=f15e263] [cursor=pointer]:
+                  - checkbox "₹25,000 - ₹50,000" [ref=f15e264]
+                  - generic [ref=f15e265]: ₹25,000 - ₹50,000
+                - generic [ref=f15e266] [cursor=pointer]:
+                  - checkbox "₹50,000 - ₹1,00,000" [ref=f15e267]
+                  - generic [ref=f15e268]: ₹50,000 - ₹1,00,000
+                - generic [ref=f15e269] [cursor=pointer]:
+                  - checkbox "Over ₹1,00,000" [ref=f15e270]
+                  - generic [ref=f15e271]: Over ₹1,00,000
+            - generic [ref=f15e272]:
+              - button "Gender / Styling" [ref=f15e273]:
+                - generic [ref=f15e274]: Gender / Styling
+                - img [ref=f15e275]
+              - generic [ref=f15e277]:
+                - generic [ref=f15e278] [cursor=pointer]:
+                  - checkbox "women" [ref=f15e279]
+                  - generic [ref=f15e280]: women
+                - generic [ref=f15e281] [cursor=pointer]:
+                  - checkbox "men" [ref=f15e282]
+                  - generic [ref=f15e283]: men
+                - generic [ref=f15e284] [cursor=pointer]:
+                  - checkbox "unisex" [ref=f15e285]
+                  - generic [ref=f15e286]: unisex
+                - generic [ref=f15e287] [cursor=pointer]:
+                  - checkbox "kids" [ref=f15e288]
+                  - generic [ref=f15e289]: kids
+        - generic [ref=f15e290]:
+          - generic [ref=f15e292]:
+            - generic [ref=f15e293]: "Sort:"
+            - combobox [ref=f15e294] [cursor=pointer]:
+              - option "Popularity" [selected]
+              - 'option "Price: Low to High"'
+              - 'option "Price: High to Low"'
+              - 'option "Weight: Heavy to Light"'
+          - generic [ref=f15e295]: Showing 30 of 30 masterworks
+          - generic [ref=f15e296]:
+            - generic [ref=f15e297] [cursor=pointer]:
+              - generic [ref=f15e298]:
+                - img "Classic Bridal Choker Set" [ref=f15e299]
+                - generic [ref=f15e301]: Bestseller
+                - generic [ref=f15e302]:
+                  - generic [ref=f15e303]: 22K
+                  - generic [ref=f15e304]: 48.5g
+              - generic [ref=f15e305]:
+                - generic [ref=f15e306]:
+                  - generic [ref=f15e307]: necklaces
+                  - heading "Classic Bridal Choker Set" [level=4] [ref=f15e308]
+                - generic [ref=f15e309]:
+                  - generic [ref=f15e310]:
+                    - generic [ref=f15e311]: Est. Price
+                    - generic [ref=f15e312]: ₹3,45,000 approx.
+                  - img [ref=f15e314]
+            - generic [ref=f15e316] [cursor=pointer]:
+              - generic [ref=f15e317]:
+                - img "Antique Gold Jhumkas" [ref=f15e318]
+                - generic [ref=f15e320]: Bestseller
+                - generic [ref=f15e321]:
+                  - generic [ref=f15e322]: 22K
+                  - generic [ref=f15e323]: 16.5g
+              - generic [ref=f15e324]:
+                - generic [ref=f15e325]:
+                  - generic [ref=f15e326]: earrings
+                  - heading "Antique Gold Jhumkas" [level=4] [ref=f15e327]
+                - generic [ref=f15e328]:
+                  - generic [ref=f15e329]:
+                    - generic [ref=f15e330]: Est. Price
+                    - generic [ref=f15e331]: ₹1,20,000
+                  - img [ref=f15e333]
+            - generic [ref=f15e335] [cursor=pointer]:
+              - generic [ref=f15e336]:
+                - img "Solitaire Diamond Engagement Ring" [ref=f15e337]
+                - generic [ref=f15e339]: Bestseller
+                - generic [ref=f15e340]:
+                  - generic [ref=f15e341]: 18K
+                  - generic [ref=f15e342]: 3.6g
+              - generic [ref=f15e343]:
+                - generic [ref=f15e344]:
+                  - generic [ref=f15e345]: rings
+                  - heading "Solitaire Diamond Engagement Ring" [level=4] [ref=f15e346]
+                - generic [ref=f15e347]:
+                  - generic [ref=f15e348]:
+                    - generic [ref=f15e349]: Est. Price
+                    - generic [ref=f15e350]: ₹95,000
+                  - img [ref=f15e352]
+            - generic [ref=f15e354] [cursor=pointer]:
+              - generic [ref=f15e355]:
+                - img "Infinity Diamond Pendant" [ref=f15e356]
+                - generic [ref=f15e358]: Bestseller
+                - generic [ref=f15e359]:
+                  - generic [ref=f15e360]: 18K
+                  - generic [ref=f15e361]: 2.8g
+              - generic [ref=f15e362]:
+                - generic [ref=f15e363]:
+                  - generic [ref=f15e364]: pendants
+                  - heading "Infinity Diamond Pendant" [level=4] [ref=f15e365]
+                - generic [ref=f15e366]:
+                  - generic [ref=f15e367]:
+                    - generic [ref=f15e368]: Est. Price
+                    - generic [ref=f15e369]: ₹48,000
+                  - img [ref=f15e371]
+            - generic [ref=f15e373] [cursor=pointer]:
+              - generic [ref=f15e374]:
+                - img "Classic Gold Kada Set" [ref=f15e375]
+                - generic [ref=f15e377]: Bestseller
+                - generic [ref=f15e378]:
+                  - generic [ref=f15e379]: 22K
+                  - generic [ref=f15e380]: 36.5g
+              - generic [ref=f15e381]:
+                - generic [ref=f15e382]:
+                  - generic [ref=f15e383]: bangles
+                  - heading "Classic Gold Kada Set" [level=4] [ref=f15e384]
+                - generic [ref=f15e385]:
+                  - generic [ref=f15e386]:
+                    - generic [ref=f15e387]: Est. Price
+                    - generic [ref=f15e388]: ₹2,60,000 (Pair) approx.
+                  - img [ref=f15e390]
+            - generic [ref=f15e392] [cursor=pointer]:
+              - generic [ref=f15e393]:
+                - img "Royal Kundan Haar" [ref=f15e394]
+                - generic [ref=f15e396]: Trending
+                - generic [ref=f15e397]:
+                  - generic [ref=f15e398]: 22K
+                  - generic [ref=f15e399]: 72.4g
+              - generic [ref=f15e400]:
+                - generic [ref=f15e401]:
+                  - generic [ref=f15e402]: necklaces
+                  - heading "Royal Kundan Haar" [level=4] [ref=f15e403]
+                - generic [ref=f15e404]:
+                  - generic [ref=f15e405]:
+                    - generic [ref=f15e406]: Est. Price
+                    - generic [ref=f15e407]: ₹5,20,000 approx.
+                  - img [ref=f15e409]
+            - generic [ref=f15e411] [cursor=pointer]:
+              - generic [ref=f15e412]:
+                - img "Chandelier Diamond Drops" [ref=f15e413]
+                - generic [ref=f15e415]: Trending
+                - generic [ref=f15e416]:
+                  - generic [ref=f15e417]: 18K
+                  - generic [ref=f15e418]: 12.4g
+              - generic [ref=f15e419]:
+                - generic [ref=f15e420]:
+                  - generic [ref=f15e421]: earrings
+                  - heading "Chandelier Diamond Drops" [level=4] [ref=f15e422]
+                - generic [ref=f15e423]:
+                  - generic [ref=f15e424]:
+                    - generic [ref=f15e425]: Est. Price
+                    - generic [ref=f15e426]: ₹2,45,000
+                  - img [ref=f15e428]
+            - generic [ref=f15e430] [cursor=pointer]:
+              - generic [ref=f15e431]:
+                - img "Heart Solitaire Pendant" [ref=f15e432]
+                - generic [ref=f15e434]: Trending
+                - generic [ref=f15e435]:
+                  - generic [ref=f15e436]: 18K
+                  - generic [ref=f15e437]: 2.5g
+              - generic [ref=f15e438]:
+                - generic [ref=f15e439]:
+                  - generic [ref=f15e440]: pendants
+                  - heading "Heart Solitaire Pendant" [level=4] [ref=f15e441]
+                - generic [ref=f15e442]:
+                  - generic [ref=f15e443]:
+                    - generic [ref=f15e444]: Est. Price
+                    - generic [ref=f15e445]: ₹65,000
+                  - img [ref=f15e447]
+            - generic [ref=f15e449] [cursor=pointer]:
+              - generic [ref=f15e450]:
+                - img "Diamond Sleek Tennis Bracelet" [ref=f15e451]
+                - generic [ref=f15e453]: Trending
+                - generic [ref=f15e454]:
+                  - generic [ref=f15e455]: 18K
+                  - generic [ref=f15e456]: 14.2g
+              - generic [ref=f15e457]:
+                - generic [ref=f15e458]:
+                  - generic [ref=f15e459]: bangles
+                  - heading "Diamond Sleek Tennis Bracelet" [level=4] [ref=f15e460]
+                - generic [ref=f15e461]:
+                  - generic [ref=f15e462]:
+                    - generic [ref=f15e463]: Est. Price
+                    - generic [ref=f15e464]: ₹2,95,000
+                  - img [ref=f15e466]
+            - generic [ref=f15e468] [cursor=pointer]:
+              - generic [ref=f15e469]:
+                - img "Turkish Rope Collar Necklace" [ref=f15e470]
+                - generic [ref=f15e472]: New Arrival
+                - generic [ref=f15e473]:
+                  - generic [ref=f15e474]: 21K
+                  - generic [ref=f15e475]: 32.0g
+              - generic [ref=f15e476]:
+                - generic [ref=f15e477]:
+                  - generic [ref=f15e478]: necklaces
+                  - heading "Turkish Rope Collar Necklace" [level=4] [ref=f15e479]
+                - generic [ref=f15e480]:
+                  - generic [ref=f15e481]:
+                    - generic [ref=f15e482]: Est. Price
+                    - generic [ref=f15e483]: ₹2,35,000
+                  - img [ref=f15e485]
+            - generic [ref=f15e487] [cursor=pointer]:
+              - generic [ref=f15e488]:
+                - img "Classic Gold Sui Dhaga Drops" [ref=f15e489]
+                - generic [ref=f15e491]: New Arrival
+                - generic [ref=f15e492]:
+                  - generic [ref=f15e493]: 22K
+                  - generic [ref=f15e494]: 5.5g
+              - generic [ref=f15e495]:
+                - generic [ref=f15e496]:
+                  - generic [ref=f15e497]: earrings
+                  - heading "Classic Gold Sui Dhaga Drops" [level=4] [ref=f15e498]
+                - generic [ref=f15e499]:
+                  - generic [ref=f15e500]:
+                    - generic [ref=f15e501]: Est. Price
+                    - generic [ref=f15e502]: ₹39,000
+                  - img [ref=f15e504]
+            - generic [ref=f15e506] [cursor=pointer]:
+              - generic [ref=f15e507]:
+                - img "Classic Diamond Eternity Band" [ref=f15e508]
+                - generic [ref=f15e510]: New Arrival
+                - generic [ref=f15e511]:
+                  - generic [ref=f15e512]: 18K
+                  - generic [ref=f15e513]: 4.5g
+              - generic [ref=f15e514]:
+                - generic [ref=f15e515]:
+                  - generic [ref=f15e516]: rings
+                  - heading "Classic Diamond Eternity Band" [level=4] [ref=f15e517]
+                - generic [ref=f15e518]:
+                  - generic [ref=f15e519]:
+                    - generic [ref=f15e520]: Est. Price
+                    - generic [ref=f15e521]: ₹1,45,000
+                  - img [ref=f15e523]
+            - generic [ref=f15e525] [cursor=pointer]:
+              - generic [ref=f15e526]:
+                - img "Geometric Diamond Hexagon" [ref=f15e527]
+                - generic [ref=f15e529]: New Arrival
+                - generic [ref=f15e530]:
+                  - generic [ref=f15e531]: 18K
+                  - generic [ref=f15e532]: 3.2g
+              - generic [ref=f15e533]:
+                - generic [ref=f15e534]:
+                  - generic [ref=f15e535]: pendants
+                  - heading "Geometric Diamond Hexagon" [level=4] [ref=f15e536]
+                - generic [ref=f15e537]:
+                  - generic [ref=f15e538]:
+                    - generic [ref=f15e539]: Est. Price
+                    - generic [ref=f15e540]: ₹54,000
+                  - img [ref=f15e542]
+            - generic [ref=f15e544] [cursor=pointer]:
+              - generic [ref=f15e545]:
+                - img "Textured Honeycomb Gold Bangle" [ref=f15e546]
+                - generic [ref=f15e548]: New Arrival
+                - generic [ref=f15e549]:
+                  - generic [ref=f15e550]: 22K
+                  - generic [ref=f15e551]: 19.8g
+              - generic [ref=f15e552]:
+                - generic [ref=f15e553]:
+                  - generic [ref=f15e554]: bangles
+                  - heading "Textured Honeycomb Gold Bangle" [level=4] [ref=f15e555]
+                - generic [ref=f15e556]:
+                  - generic [ref=f15e557]:
+                    - generic [ref=f15e558]: Est. Price
+                    - generic [ref=f15e559]: ₹1,40,000
+                  - img [ref=f15e561]
+            - generic [ref=f15e563] [cursor=pointer]:
+              - generic [ref=f15e564]:
+                - img "Modern Statement Gold Bib" [ref=f15e565]
+                - generic [ref=f15e567]: Popular
+                - generic [ref=f15e568]:
+                  - generic [ref=f15e569]: 22K
+                  - generic [ref=f15e570]: 56.0g
+              - generic [ref=f15e571]:
+                - generic [ref=f15e572]:
+                  - generic [ref=f15e573]: necklaces
+                  - heading "Modern Statement Gold Bib" [level=4] [ref=f15e574]
+                - generic [ref=f15e575]:
+                  - generic [ref=f15e576]:
+                    - generic [ref=f15e577]: Est. Price
+                    - generic [ref=f15e578]: ₹3,95,000 approx.
+                  - img [ref=f15e580]
+            - generic [ref=f15e582] [cursor=pointer]:
+              - generic [ref=f15e583]:
+                - img "Floral Diamond Studs" [ref=f15e584]
+                - generic [ref=f15e586]: Popular
+                - generic [ref=f15e587]:
+                  - generic [ref=f15e588]: 18K
+                  - generic [ref=f15e589]: 4.8g
+              - generic [ref=f15e590]:
+                - generic [ref=f15e591]:
+                  - generic [ref=f15e592]: earrings
+                  - heading "Floral Diamond Studs" [level=4] [ref=f15e593]
+                - generic [ref=f15e594]:
+                  - generic [ref=f15e595]:
+                    - generic [ref=f15e596]: Est. Price
+                    - generic [ref=f15e597]: ₹1,15,000
+                  - img [ref=f15e599]
+            - generic [ref=f15e601] [cursor=pointer]:
+              - generic [ref=f15e602]:
+                - img "Men's Signet Gold Ring" [ref=f15e603]
+                - generic [ref=f15e605]: Popular
+                - generic [ref=f15e606]:
+                  - generic [ref=f15e607]: 22K
+                  - generic [ref=f15e608]: 11.2g
+              - generic [ref=f15e609]:
+                - generic [ref=f15e610]:
+                  - generic [ref=f15e611]: rings
+                  - heading "Men's Signet Gold Ring" [level=4] [ref=f15e612]
+                - generic [ref=f15e613]:
+                  - generic [ref=f15e614]:
+                    - generic [ref=f15e615]: Est. Price
+                    - generic [ref=f15e616]: ₹79,000
+                  - img [ref=f15e618]
+            - generic [ref=f15e620] [cursor=pointer]:
+              - generic [ref=f15e621]:
+                - img "Ganesha Gold Pendant" [ref=f15e622]
+                - generic [ref=f15e624]: Popular
+                - generic [ref=f15e625]:
+                  - generic [ref=f15e626]: 22K
+                  - generic [ref=f15e627]: 3.5g
+              - generic [ref=f15e628]:
+                - generic [ref=f15e629]:
+                  - generic [ref=f15e630]: pendants
+                  - heading "Ganesha Gold Pendant" [level=4] [ref=f15e631]
+                - generic [ref=f15e632]:
+                  - generic [ref=f15e633]:
+                    - generic [ref=f15e634]: Est. Price
+                    - generic [ref=f15e635]: ₹26,000
+                  - img [ref=f15e637]
+            - generic [ref=f15e639] [cursor=pointer]:
+              - generic [ref=f15e640]:
+                - img "Solid Gold Kada for Men" [ref=f15e641]
+                - generic [ref=f15e643]: Popular
+                - generic [ref=f15e644]:
+                  - generic [ref=f15e645]: 22K
+                  - generic [ref=f15e646]: 28.0g
+              - generic [ref=f15e647]:
+                - generic [ref=f15e648]:
+                  - generic [ref=f15e649]: bangles
+                  - heading "Solid Gold Kada for Men" [level=4] [ref=f15e650]
+                - generic [ref=f15e651]:
+                  - generic [ref=f15e652]:
+                    - generic [ref=f15e653]: Est. Price
+                    - generic [ref=f15e654]: ₹1,98,000
+                  - img [ref=f15e656]
+            - generic [ref=f15e658] [cursor=pointer]:
+              - generic [ref=f15e659]:
+                - img "Minimalist Italian Gold Chain" [ref=f15e660]
+                - generic [ref=f15e662]:
+                  - generic [ref=f15e663]: 18K
+                  - generic [ref=f15e664]: 12.8g
+              - generic [ref=f15e665]:
+                - generic [ref=f15e666]:
+                  - generic [ref=f15e667]: necklaces
+                  - heading "Minimalist Italian Gold Chain" [level=4] [ref=f15e668]
+                - generic [ref=f15e669]:
+                  - generic [ref=f15e670]:
+                    - generic [ref=f15e671]: Est. Price
+                    - generic [ref=f15e672]: ₹85,000
+                  - img [ref=f15e674]
+            - generic [ref=f15e676] [cursor=pointer]:
+              - generic [ref=f15e677]:
+                - img "Petite Sterling Silver Collar" [ref=f15e678]
+                - generic [ref=f15e680]:
+                  - generic [ref=f15e681]: "92.5"
+                  - generic [ref=f15e682]: 18.2g
+              - generic [ref=f15e683]:
+                - generic [ref=f15e684]:
+                  - generic [ref=f15e685]: necklaces
+                  - heading "Petite Sterling Silver Collar" [level=4] [ref=f15e686]
+                - generic [ref=f15e687]:
+                  - generic [ref=f15e688]:
+                    - generic [ref=f15e689]: Est. Price
+                    - generic [ref=f15e690]: ₹8,500
+                  - img [ref=f15e692]
+            - generic [ref=f15e694] [cursor=pointer]:
+              - generic [ref=f15e695]:
+                - img "Italian Hoop Earrings" [ref=f15e696]
+                - generic [ref=f15e698]:
+                  - generic [ref=f15e699]: 18K
+                  - generic [ref=f15e700]: 6.2g
+              - generic [ref=f15e701]:
+                - generic [ref=f15e702]:
+                  - generic [ref=f15e703]: earrings
+                  - heading "Italian Hoop Earrings" [level=4] [ref=f15e704]
+                - generic [ref=f15e705]:
+                  - generic [ref=f15e706]:
+                    - generic [ref=f15e707]: Est. Price
+                    - generic [ref=f15e708]: ₹45,000
+                  - img [ref=f15e710]
+            - generic [ref=f15e712] [cursor=pointer]:
+              - generic [ref=f15e713]:
+                - img "Sterling Silver Chandbalis" [ref=f15e714]
+                - generic [ref=f15e716]:
+                  - generic [ref=f15e717]: "92.5"
+                  - generic [ref=f15e718]: 22.0g
+              - generic [ref=f15e719]:
+                - generic [ref=f15e720]:
+                  - generic [ref=f15e721]: earrings
+                  - heading "Sterling Silver Chandbalis" [level=4] [ref=f15e722]
+                - generic [ref=f15e723]:
+                  - generic [ref=f15e724]:
+                    - generic [ref=f15e725]: Est. Price
+                    - generic [ref=f15e726]: ₹9,500
+                  - img [ref=f15e728]
+            - generic [ref=f15e730] [cursor=pointer]:
+              - generic [ref=f15e731]:
+                - img "V-Shape Wishbone Gold Ring" [ref=f15e732]
+                - generic [ref=f15e734]:
+                  - generic [ref=f15e735]: 22K
+                  - generic [ref=f15e736]: 4.2g
+              - generic [ref=f15e737]:
+                - generic [ref=f15e738]:
+                  - generic [ref=f15e739]: rings
+                  - heading "V-Shape Wishbone Gold Ring" [level=4] [ref=f15e740]
+                - generic [ref=f15e741]:
+                  - generic [ref=f15e742]:
+                    - generic [ref=f15e743]: Est. Price
+                    - generic [ref=f15e744]: ₹30,000
+                  - img [ref=f15e746]
+            - generic [ref=f15e748] [cursor=pointer]:
+              - generic [ref=f15e749]:
+                - img "Traditional Men's Gold Ring" [ref=f15e750]
+                - generic [ref=f15e752]:
+                  - generic [ref=f15e753]: 22K
+                  - generic [ref=f15e754]: 9.5g
+              - generic [ref=f15e755]:
+                - generic [ref=f15e756]:
+                  - generic [ref=f15e757]: rings
+                  - heading "Traditional Men's Gold Ring" [level=4] [ref=f15e758]
+                - generic [ref=f15e759]:
+                  - generic [ref=f15e760]:
+                    - generic [ref=f15e761]: Est. Price
+                    - generic [ref=f15e762]: ₹68,000
+                  - img [ref=f15e764]
+            - generic [ref=f15e766] [cursor=pointer]:
+              - generic [ref=f15e767]:
+                - img "Sterling Silver Couple Bands" [ref=f15e768]
+                - generic [ref=f15e770]:
+                  - generic [ref=f15e771]: "92.5"
+                  - generic [ref=f15e772]: 7.0g
+              - generic [ref=f15e773]:
+                - generic [ref=f15e774]:
+                  - generic [ref=f15e775]: rings
+                  - heading "Sterling Silver Couple Bands" [level=4] [ref=f15e776]
+                - generic [ref=f15e777]:
+                  - generic [ref=f15e778]:
+                    - generic [ref=f15e779]: Est. Price
+                    - generic [ref=f15e780]: ₹4,200 (Pair)
+                  - img [ref=f15e782]
+            - generic [ref=f15e784] [cursor=pointer]:
+              - generic [ref=f15e785]:
+                - img "Peacock Enamel Gold Pendant" [ref=f15e786]
+                - generic [ref=f15e788]:
+                  - generic [ref=f15e789]: 22K
+                  - generic [ref=f15e790]: 5.8g
+              - generic [ref=f15e791]:
+                - generic [ref=f15e792]:
+                  - generic [ref=f15e793]: pendants
+                  - heading "Peacock Enamel Gold Pendant" [level=4] [ref=f15e794]
+                - generic [ref=f15e795]:
+                  - generic [ref=f15e796]:
+                    - generic [ref=f15e797]: Est. Price
+                    - generic [ref=f15e798]: ₹43,000
+                  - img [ref=f15e800]
+            - generic [ref=f15e802] [cursor=pointer]:
+              - generic [ref=f15e803]:
+                - img "Sterling Silver Butterfly Pendant" [ref=f15e804]
+                - generic [ref=f15e806]:
+                  - generic [ref=f15e807]: "92.5"
+                  - generic [ref=f15e808]: 4.0g
+              - generic [ref=f15e809]:
+                - generic [ref=f15e810]:
+                  - generic [ref=f15e811]: pendants
+                  - heading "Sterling Silver Butterfly Pendant" [level=4] [ref=f15e812]
+                - generic [ref=f15e813]:
+                  - generic [ref=f15e814]:
+                    - generic [ref=f15e815]: Est. Price
+                    - generic [ref=f15e816]: ₹2,900
+                  - img [ref=f15e818]
+            - generic [ref=f15e820] [cursor=pointer]:
+              - generic [ref=f15e821]:
+                - img "Italian Mesh Gold Bracelet" [ref=f15e822]
+                - generic [ref=f15e824]:
+                  - generic [ref=f15e825]: 18K
+                  - generic [ref=f15e826]: 22.5g
+              - generic [ref=f15e827]:
+                - generic [ref=f15e828]:
+                  - generic [ref=f15e829]: bangles
+                  - heading "Italian Mesh Gold Bracelet" [level=4] [ref=f15e830]
+                - generic [ref=f15e831]:
+                  - generic [ref=f15e832]:
+                    - generic [ref=f15e833]: Est. Price
+                    - generic [ref=f15e834]: ₹1,55,000
+                  - img [ref=f15e836]
+            - generic [ref=f15e838] [cursor=pointer]:
+              - generic [ref=f15e839]:
+                - img "Sterling Silver Wire Bangle Set" [ref=f15e840]
+                - generic [ref=f15e842]:
+                  - generic [ref=f15e843]: "92.5"
+                  - generic [ref=f15e844]: 18.5g
+              - generic [ref=f15e845]:
+                - generic [ref=f15e846]:
+                  - generic [ref=f15e847]: bangles
+                  - heading "Sterling Silver Wire Bangle Set" [level=4] [ref=f15e848]
+                - generic [ref=f15e849]:
+                  - generic [ref=f15e850]:
+                    - generic [ref=f15e851]: Est. Price
+                    - generic [ref=f15e852]: ₹6,800 (Set of 4)
+                  - img [ref=f15e854]
+    - generic [ref=f15e857]:
+      - generic [ref=f15e858]:
+        - generic [ref=f15e861]: Our Heritage
+        - heading "A Legacy Built on Trust" [level=2] [ref=f15e862]
+      - generic [ref=f15e863]:
+        - img "Inside Anas and Sons Jewellers" [ref=f15e866]
+        - generic [ref=f15e868]:
+          - paragraph [ref=f15e869]: "“In 1988, we opened our doors with a simple promise: honest gold, fair prices, and respect for every customer who walks in.”"
+          - paragraph [ref=f15e871]: Three generations later, that promise still holds. What started as a small family shop has grown into Okhla's largest jewellery showroom, trusted by thousands of families for their weddings, celebrations, and everyday elegance.
+          - paragraph [ref=f15e872]: Every piece in our collection, from Turkish gold designs to certified diamond sets, carries the care and precision that comes from nearly 40 years of experience. We do not simply sell jewellery. We help families find pieces that become part of their story.
+      - generic [ref=f15e873]:
+        - generic [ref=f15e874]: The Journey
+        - generic [ref=f15e875]:
+          - generic [ref=f15e880]:
+            - text: "1988"
+            - heading "The Beginning" [level=4] [ref=f15e881]
+            - paragraph [ref=f15e882]: A small family shop opens in the heart of Batla House, built on a promise of honest gold and fair prices.
+          - generic [ref=f15e886]:
+            - text: "1998"
+            - heading "A Decade of Trust" [level=4] [ref=f15e887]
+            - paragraph [ref=f15e888]: Word of mouth grows the business. Families from across Okhla, Jamia Nagar, and beyond become loyal customers.
+          - generic [ref=f15e892]:
+            - text: "2008"
+            - heading "Expanding the Collection" [level=4] [ref=f15e893]
+            - paragraph [ref=f15e894]: Turkish and Italian gold designs are introduced. The shop becomes known for styles not found anywhere else in the area.
+          - generic [ref=f15e898]:
+            - text: "2018"
+            - heading "Three Decades Strong" [level=4] [ref=f15e899]
+            - paragraph [ref=f15e900]: Diamond and silver collections are added. The second generation takes an active role in the family business.
+          - generic [ref=f15e904]:
+            - text: "2025"
+            - heading "The New Showroom" [level=4] [ref=f15e905]
+            - paragraph [ref=f15e906]: Anas and Sons Jewellers opens Okhla's largest jewellery showroom. A grand inauguration marks a new chapter.
+          - generic [ref=f15e910]:
+            - text: Today
+            - heading "The Legacy Continues" [level=4] [ref=f15e911]
+            - paragraph [ref=f15e912]: Three generations. Thousands of families. One name they trust. The art of timeless luxury continues.
+      - generic [ref=f15e913]:
+        - generic [ref=f15e914]:
+          - generic [ref=f15e915]: "1988"
+          - generic [ref=f15e916]: Established
+          - generic [ref=f15e917]: Nearly four decades of trust
+        - generic [ref=f15e918]:
+          - generic [ref=f15e919]: 2,700+
+          - generic [ref=f15e920]: Happy Families
+          - generic [ref=f15e921]: And growing every single day
+        - generic [ref=f15e922]:
+          - generic [ref=f15e923]: 10,000+
+          - generic [ref=f15e924]: Unique Designs
+          - generic [ref=f15e925]: Okhla's largest variety
+        - generic [ref=f15e926]:
+          - generic [ref=f15e927]: 100%
+          - generic [ref=f15e928]: BIS Hallmarked
+          - generic [ref=f15e929]: Certified purity, always
+    - generic [ref=f15e931]:
+      - generic [ref=f15e932]:
+        - generic [ref=f15e933]:
+          - generic [ref=f15e936]: From Our Instagram
+          - heading "The Gallery" [level=2] [ref=f15e937]
+        - link "Follow Us" [ref=f15e938]:
+          - /url: https://www.instagram.com/anasandsonsjewellers.co/
+          - img [ref=f15e939]
+          - text: Follow Us
+      - generic [ref=f15e941]:
+        - generic [ref=f15e942] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 1" [ref=f15e943]
+          - img [ref=f15e947]
+        - generic [ref=f15e949] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 2" [ref=f15e950]
+          - img [ref=f15e954]
+        - generic [ref=f15e956] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 3" [ref=f15e957]
+          - img [ref=f15e961]
+        - generic [ref=f15e963] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 4" [ref=f15e964]
+          - img [ref=f15e968]
+        - generic [ref=f15e970] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 5" [ref=f15e971]
+          - img [ref=f15e975]
+        - generic [ref=f15e977] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 6" [ref=f15e978]
+          - img [ref=f15e982]
+        - generic [ref=f15e984] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 7" [ref=f15e985]
+          - img [ref=f15e989]
+        - generic [ref=f15e991] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 8" [ref=f15e992]
+          - img [ref=f15e996]
+        - generic [ref=f15e998] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 9" [ref=f15e999]
+          - img [ref=f15e1003]
+        - generic [ref=f15e1005] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 10" [ref=f15e1006]
+          - img [ref=f15e1010]
+        - generic [ref=f15e1012] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 11" [ref=f15e1013]
+          - img [ref=f15e1017]
+        - generic [ref=f15e1019] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 12" [ref=f15e1020]
+          - img [ref=f15e1024]
+        - generic [ref=f15e1026] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 13" [ref=f15e1027]
+          - img [ref=f15e1031]
+        - generic [ref=f15e1033] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 14" [ref=f15e1034]
+          - img [ref=f15e1038]
+        - generic:
+          - img "Anas and Sons Jewellers 15"
+        - generic:
+          - img "Anas and Sons Jewellers 16"
+    - generic [ref=f15e1043]:
+      - generic [ref=f15e1044]:
+        - generic [ref=f15e1047]: Voices of Trust
+        - heading "What Our Families Say" [level=2] [ref=f15e1048]
+      - generic [ref=f15e1049]:
+        - generic [ref=f15e1050]:
+          - generic [ref=f15e1051]:
+            - img [ref=f15e1052]
+            - img [ref=f15e1054]
+            - img [ref=f15e1056]
+            - img [ref=f15e1058]
+            - img [ref=f15e1060]
+          - paragraph [ref=f15e1062]: “We bought our entire wedding set from Anas Jewellers. The quality and variety is unmatched in the area. They treated us like family.”
+          - generic [ref=f15e1063]:
+            - generic [ref=f15e1065]: A
+            - generic [ref=f15e1066]:
+              - generic [ref=f15e1067]: Ayesha K.
+              - generic [ref=f15e1068]: Wedding
+        - generic [ref=f15e1069]:
+          - generic [ref=f15e1070]:
+            - img [ref=f15e1071]
+            - img [ref=f15e1073]
+            - img [ref=f15e1075]
+            - img [ref=f15e1077]
+            - img [ref=f15e1079]
+          - paragraph [ref=f15e1081]: “Been buying gold from Anas bhai since my father's time. Three generations of trust. The new showroom is beautiful.”
+          - generic [ref=f15e1082]:
+            - generic [ref=f15e1084]: M
+            - generic [ref=f15e1085]:
+              - generic [ref=f15e1086]: Mohd. Irfan
+              - generic [ref=f15e1087]: Family
+        - generic [ref=f15e1088]:
+          - generic [ref=f15e1089]:
+            - img [ref=f15e1090]
+            - img [ref=f15e1092]
+            - img [ref=f15e1094]
+            - img [ref=f15e1096]
+            - img [ref=f15e1098]
+          - paragraph [ref=f15e1100]: “Their Italian gold designs are stunning. I came for one piece and left with three. The staff is very helpful and patient.”
+          - generic [ref=f15e1101]:
+            - generic [ref=f15e1103]: S
+            - generic [ref=f15e1104]:
+              - generic [ref=f15e1105]: Sana R.
+              - generic [ref=f15e1106]: Self Purchase
+        - generic [ref=f15e1107]:
+          - generic [ref=f15e1108]:
+            - img [ref=f15e1109]
+            - img [ref=f15e1111]
+            - img [ref=f15e1113]
+            - img [ref=f15e1115]
+            - img [ref=f15e1117]
+          - paragraph [ref=f15e1119]: “Bought an engagement ring here. They helped me choose the perfect diamond within my budget. Exceptional service.”
+          - generic [ref=f15e1120]:
+            - generic [ref=f15e1122]: D
+            - generic [ref=f15e1123]:
+              - generic [ref=f15e1124]: Dr. Farhan A.
+              - generic [ref=f15e1125]: Engagement
+      - paragraph [ref=f15e1126]: Sample reviews. Ask us to replace with your real customer feedback.
+    - generic [ref=f15e1128]:
+      - generic [ref=f15e1129]:
+        - generic [ref=f15e1130]: Knowledge
+        - heading "Good to Know" [level=2] [ref=f15e1131]
+      - generic [ref=f15e1132]:
+        - generic [ref=f15e1133]:
+          - button "What types of jewellery do you offer?" [ref=f15e1134]:
+            - generic [ref=f15e1135]: What types of jewellery do you offer?
+          - paragraph [ref=f15e1140]: We carry a wide range of gold (18K to 22K), diamond, and silver jewellery. Our collection includes Turkish designs, Italian pieces, antique treasures, infinity designs, and complete bridal sets.
+        - generic [ref=f15e1141]:
+          - button "Is your gold BIS Hallmarked?" [ref=f15e1142]:
+            - generic [ref=f15e1143]: Is your gold BIS Hallmarked?
+          - paragraph [ref=f15e1147]: Yes, all our gold jewellery is BIS Hallmarked, which means you get certified purity with every purchase. We believe in complete transparency.
+        - generic [ref=f15e1148]:
+          - button "Do you offer custom jewellery designs?" [ref=f15e1149]:
+            - generic [ref=f15e1150]: Do you offer custom jewellery designs?
+          - paragraph [ref=f15e1154]: Absolutely. Bring us your idea, a photo, or even a sketch, and our craftsmen will bring it to life. Custom orders typically take 7 to 14 working days.
+        - generic [ref=f15e1155]:
+          - button "What is your exchange and buyback policy?" [ref=f15e1156]:
+            - generic [ref=f15e1157]: What is your exchange and buyback policy?
+          - paragraph [ref=f15e1161]: We offer lifetime exchange on gold jewellery purchased from our store. For buyback, we offer the best rates based on current gold prices. Bring your bill and original jewellery.
+        - generic [ref=f15e1162]:
+          - button "Do you offer EMI or payment plans?" [ref=f15e1163]:
+            - generic [ref=f15e1164]: Do you offer EMI or payment plans?
+          - paragraph [ref=f15e1168]: Please visit our showroom or call us to discuss payment options. We are happy to work with you on larger purchases.
+        - generic [ref=f15e1169]:
+          - button "Where is your showroom located?" [ref=f15e1170]:
+            - generic [ref=f15e1171]: Where is your showroom located?
+          - paragraph [ref=f15e1175]: We are located at Shop No. 334E/1, Main Road, Batla House, Okhla, Jamia Nagar, New Delhi 110025. We are easy to find on Google Maps.
+    - generic [ref=f15e1177]:
+      - generic [ref=f15e1178]:
+        - generic [ref=f15e1181]: The Showroom
+        - heading "Visit Us" [level=2] [ref=f15e1182]
+      - generic [ref=f15e1186]:
+        - text: Grand Showroom
+        - heading "Okhla's Largest" [level=3] [ref=f15e1187]
+      - generic [ref=f15e1188]:
+        - generic [ref=f15e1189]:
+          - img [ref=f15e1191]
+          - heading "Address" [level=4] [ref=f15e1194]
+          - paragraph [ref=f15e1195]:
+            - text: Shop No. 334E/1, Main Road, Batla House
+            - text: Okhla, Jamia Nagar
+            - text: New Delhi 110025
+          - link "Get Directions →" [ref=f15e1196] [cursor=pointer]:
+            - /url: https://maps.app.goo.gl/CytEJAVAhhocMwrD8?g_st=ic
+        - generic [ref=f15e1197]:
+          - img [ref=f15e1199]
+          - heading "Store Hours" [level=4] [ref=f15e1201]
+          - generic [ref=f15e1202]:
+            - generic [ref=f15e1203]:
+              - generic [ref=f15e1204]: Mon to Thu
+              - generic [ref=f15e1205]: 10:00 AM - 9:00 PM
+            - generic [ref=f15e1206]:
+              - generic [ref=f15e1207]: Friday
+              - generic [ref=f15e1208]: 2:30 PM - 9:00 PM
+            - generic [ref=f15e1209]:
+              - generic [ref=f15e1210]: Sat & Sun
+              - generic [ref=f15e1211]: 10:00 AM - 9:00 PM
+          - paragraph [ref=f15e1212]: Please call to confirm hours.
+        - generic [ref=f15e1213]:
+          - img [ref=f15e1215]
+          - heading "Contact" [level=4] [ref=f15e1217]
+          - link "+91 99536 56749" [ref=f15e1218] [cursor=pointer]:
+            - /url: tel:+919953656749
+          - link "@anasandsonsjewellers.co" [ref=f15e1219] [cursor=pointer]:
+            - /url: https://www.instagram.com/anasandsonsjewellers.co/
+      - iframe [ref=f15e1221]
+    - generic [ref=f15e1225]:
+      - generic [ref=f15e1226]:
+        - generic [ref=f15e1227]: Get in Touch
+        - heading "Begin Your Journey" [level=2] [ref=f15e1228]
+        - paragraph [ref=f15e1230]: Whether you are looking for a wedding set, a gift, or something special for yourself, we are here to guide you to the perfect piece.
+      - generic [ref=f15e1231]:
+        - link "WhatsApp Us" [ref=f15e1232]:
+          - /url: https://wa.me/919953656749?text=Hi%2C%20I%20saw%20your%20website%20and%20I%20am%20interested%20in%20your%20jewellery%20collection.%20Can%20you%20help%20me%3F
+          - img [ref=f15e1233]
+          - text: WhatsApp Us
+        - link "Call +91 99536 56749" [ref=f15e1235]:
+          - /url: tel:+919953656749
+  - contentinfo [ref=f15e1236]:
+    - generic [ref=f15e1237]:
+      - generic [ref=f15e1238]:
+        - generic [ref=f15e1239]:
+          - heading "Anas & Sons" [level=3] [ref=f15e1240]
+          - paragraph [ref=f15e1241]: Jewellers . Since 1988
+          - paragraph [ref=f15e1242]: The Art of Timeless Luxury. Nearly four decades of craftsmanship, trust, and timeless beauty.
+        - generic [ref=f15e1243]:
+          - heading "Navigate" [level=4] [ref=f15e1244]
+          - generic [ref=f15e1245]:
+            - link "Collections" [ref=f15e1246] [cursor=pointer]:
+              - /url: "#collections"
+            - link "Gallery" [ref=f15e1247] [cursor=pointer]:
+              - /url: "#gallery"
+            - link "Heritage" [ref=f15e1248] [cursor=pointer]:
+              - /url: "#heritage"
+            - link "Showroom" [ref=f15e1249] [cursor=pointer]:
+              - /url: "#showroom"
+            - link "Contact" [ref=f15e1250] [cursor=pointer]:
+              - /url: "#contact"
+        - generic [ref=f15e1251]:
+          - heading "Contact" [level=4] [ref=f15e1252]
+          - generic [ref=f15e1253]:
+            - link "+91 99536 56749" [ref=f15e1254] [cursor=pointer]:
+              - /url: tel:+919953656749
+            - link "Instagram" [ref=f15e1255] [cursor=pointer]:
+              - /url: https://www.instagram.com/anasandsonsjewellers.co/
+            - link "Google Maps" [ref=f15e1256] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/CytEJAVAhhocMwrD8?g_st=ic
+        - generic [ref=f15e1257]:
+          - heading "Showroom" [level=4] [ref=f15e1258]
+          - paragraph [ref=f15e1259]:
+            - text: Shop No. 334E/1, Main Road, Batla House
+            - text: Okhla, Jamia Nagar
+            - text: New Delhi 110025
+      - generic [ref=f15e1260]:
+        - paragraph [ref=f15e1261]: © 2026 Anas & Sons Jewellers
+        - paragraph [ref=f15e1262]: Crafted with care
+  - link "Chat on WhatsApp" [ref=f15e1264] [cursor=pointer]:
+    - /url: https://wa.me/919953656749?text=Hi%2C%20I%20saw%20your%20website%20and%20I%20am%20interested%20in%20your%20jewellery%20collection.%20Can%20you%20help%20me%3F
+    - img [ref=f15e1265]
+  - button "AI Jewellery Assistant" [ref=f15e1267]:
+    - img [ref=f15e1268]
+  - button "Open Next.js Dev Tools" [ref=f15e1275] [cursor=pointer]:
+    - img [ref=f15e1276]
