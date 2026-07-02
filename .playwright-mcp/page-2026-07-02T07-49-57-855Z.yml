@@ -1,0 +1,481 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img [ref=e3]
+    - generic [ref=e5]:
+      - generic [ref=e6]: Anas & Sons
+      - generic [ref=e7]: Jewellers
+  - navigation [ref=e10]:
+    - generic [ref=e11]:
+      - link "Anas & Sons Jewellers . Since 1988" [ref=e12] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e13]: Anas & Sons
+        - generic [ref=e14]: Jewellers . Since 1988
+      - generic [ref=e15]:
+        - link "Collections" [ref=e16] [cursor=pointer]:
+          - /url: /#collections
+          - text: Collections
+        - link "Catalog" [ref=e17] [cursor=pointer]:
+          - /url: /catalog
+          - text: Catalog
+        - link "Atelier" [ref=e18] [cursor=pointer]:
+          - /url: /#featured
+          - text: Atelier
+        - link "Heritage" [ref=e19] [cursor=pointer]:
+          - /url: /#heritage
+          - text: Heritage
+        - link "Gallery" [ref=e20] [cursor=pointer]:
+          - /url: /#gallery
+          - text: Gallery
+        - link "Showroom" [ref=e21] [cursor=pointer]:
+          - /url: /#showroom
+          - text: Showroom
+        - link "Contact" [ref=e22] [cursor=pointer]:
+          - /url: /#contact
+          - text: Contact
+      - link "Enquire" [ref=e24] [cursor=pointer]:
+        - /url: https://wa.me/919077000064?text=Hi%2C%20I%20saw%20your%20website%20and%20I%20am%20interested%20in%20your%20jewellery%20collection.%20Can%20you%20help%20me%3F
+        - text: Enquire
+  - main [ref=e26]:
+    - generic [ref=e27]:
+      - generic [ref=e34]:
+        - generic [ref=e37]: Est. 1988
+        - heading "The Art of" [level=1] [ref=e39]
+        - heading "Timeless Luxury" [level=1] [ref=e41]
+        - paragraph [ref=e42]: Gold. Silver. Diamond. Crafted with care and precision for nearly four decades. Okhla's largest jewellery showroom.
+        - generic [ref=e43]:
+          - link "Enquire Now" [ref=e44]:
+            - /url: https://wa.me/919077000064?text=Hi%2C%20I%20saw%20your%20website%20and%20I%20am%20interested%20in%20your%20jewellery%20collection.%20Can%20you%20help%20me%3F
+            - img [ref=e45]
+            - text: Enquire Now
+          - link "Explore Collections" [ref=e47]:
+            - /url: "#collections"
+            - text: Explore Collections
+            - img [ref=e48]
+      - generic [ref=e52]: Scroll
+    - generic [ref=e55]:
+      - generic [ref=e56]:
+        - generic [ref=e59]: Our Collections
+        - heading "Crafted for Every Occasion" [level=2] [ref=e60]
+      - generic [ref=e61]:
+        - img "Gold Collection" [ref=e64]
+        - generic [ref=e67]:
+          - generic [ref=e68]: 18K to 22K Hallmarked
+          - heading "Gold Collection" [level=3] [ref=e69]
+          - paragraph [ref=e71]: Our gold collection spans Turkish, Italian, and traditional Indian designs. Every piece is BIS Hallmarked for certified purity. Whether you seek a delicate chain for daily wear or an elaborate bridal necklace, our master craftsmen shape each gram with nearly four decades of expertise.
+          - generic [ref=e72]:
+            - generic [ref=e73]: 18K to 22K Gold
+            - generic [ref=e74]: BIS Hallmarked
+            - generic [ref=e75]: Turkish & Italian Designs
+          - link "Enquire" [ref=e76]:
+            - /url: https://wa.me/919077000064?text=I%20am%20interested%20in%20your%20Gold%20Collection.%20Can%20you%20show%20me%20the%20latest%20designs%3F
+            - text: Enquire
+            - img [ref=e77]
+      - generic [ref=e79]:
+        - img "Diamond Jewellery" [ref=e82]
+        - generic [ref=e85]:
+          - generic [ref=e86]: Certified Brilliance
+          - heading "Diamond Jewellery" [level=3] [ref=e87]
+          - paragraph [ref=e89]: Each diamond in our collection is certified for cut, clarity, colour, and carat. Set in 18K or 22K gold or platinum, our diamond pieces range from solitaire rings to elaborate bridal sets. We work directly with cutters to ensure every stone meets our standard.
+          - generic [ref=e90]:
+            - generic [ref=e91]: Certified Diamonds
+            - generic [ref=e92]: Custom Settings
+            - generic [ref=e93]: Lifetime Exchange
+          - link "Enquire" [ref=e94]:
+            - /url: https://wa.me/919077000064?text=I%20am%20interested%20in%20your%20Diamond%20Collection.%20Can%20you%20share%20details%3F
+            - text: Enquire
+            - img [ref=e95]
+      - generic [ref=e97]:
+        - img "Silver Collection" [ref=e100]
+        - generic [ref=e103]:
+          - generic [ref=e104]: 925 Sterling
+          - heading "Silver Collection" [level=3] [ref=e105]
+          - paragraph [ref=e107]: Our silver collection features 925 sterling silver with rhodium plating for lasting shine. From statement earrings to delicate anklets, we blend modern minimalism with traditional Indian aesthetics.
+          - generic [ref=e108]:
+            - generic [ref=e109]: 925 Sterling Silver
+            - generic [ref=e110]: Antique Finishes
+            - generic [ref=e111]: Daily Wear Designs
+          - link "Enquire" [ref=e112]:
+            - /url: https://wa.me/919077000064?text=I%20am%20interested%20in%20your%20Silver%20Collection.%20Can%20you%20show%20me%20options%3F
+            - text: Enquire
+            - img [ref=e113]
+      - generic [ref=e115]:
+        - img "Bridal Sets" [ref=e118]
+        - generic [ref=e121]:
+          - generic [ref=e122]: Complete Trousseau
+          - heading "Bridal Sets" [level=3] [ref=e123]
+          - paragraph [ref=e125]: A wedding is once in a lifetime. Our bridal collection includes complete sets with necklace, earrings, maang tikka, haath phool, bangles, and anklets. We offer custom designing so every bride walks out with something made just for her.
+          - generic [ref=e126]:
+            - generic [ref=e127]: Complete Bridal Sets
+            - generic [ref=e128]: Custom Designing
+            - generic [ref=e129]: Family Heirlooms
+          - link "Enquire" [ref=e130]:
+            - /url: https://wa.me/919077000064?text=I%20am%20looking%20for%20a%20Bridal%20Set.%20Can%20we%20discuss%20designs%20and%20budget%3F
+            - text: Enquire
+            - img [ref=e131]
+    - generic [ref=e134]:
+      - generic [ref=e135]:
+        - generic [ref=e136]:
+          - generic [ref=e139]: The Atelier
+          - heading "Featured Pieces" [level=2] [ref=e140]
+        - link "View All" [ref=e141]:
+          - /url: "#collections"
+      - generic [ref=e143]:
+        - generic [ref=e144]:
+          - generic [ref=e145]:
+            - img "Infinity Gold Necklace" [ref=e146]
+            - generic [ref=e148]: Bestseller
+            - link "Enquire About This Piece" [ref=e150]:
+              - /url: https://wa.me/919077000064?text=I%20am%20interested%20in%3A%20Infinity%20Gold%20Necklace.%20Can%20you%20share%20the%20price%3F
+          - generic [ref=e151]:
+            - text: Gold
+            - heading "Infinity Gold Necklace" [level=4] [ref=e152]
+            - generic [ref=e153]:
+              - generic [ref=e154]: 22K Hallmarked
+              - generic [ref=e156]: 18.5g approx.
+            - paragraph [ref=e157]: Price on request
+        - generic [ref=e158]:
+          - generic [ref=e159]:
+            - img "Diamond Solitaire Ring" [ref=e160]
+            - generic [ref=e162]: New Arrival
+            - link "Enquire About This Piece" [ref=e164]:
+              - /url: https://wa.me/919077000064?text=I%20am%20interested%20in%3A%20Diamond%20Solitaire%20Ring.%20Can%20you%20share%20the%20price%3F
+          - generic [ref=e165]:
+            - text: Diamond
+            - heading "Diamond Solitaire Ring" [level=4] [ref=e166]
+            - generic [ref=e167]:
+              - generic [ref=e168]: 18K Gold Setting
+              - generic [ref=e170]: 0.50 Carat
+            - paragraph [ref=e171]: Price on request
+        - generic [ref=e172]:
+          - generic [ref=e173]:
+            - img "Italian Gold Bangle Set" [ref=e174]
+            - generic [ref=e176]: Popular
+            - link "Enquire About This Piece" [ref=e178]:
+              - /url: https://wa.me/919077000064?text=I%20am%20interested%20in%3A%20Italian%20Gold%20Bangle%20Set.%20Can%20you%20share%20the%20price%3F
+          - generic [ref=e179]:
+            - text: Gold
+            - heading "Italian Gold Bangle Set" [level=4] [ref=e180]
+            - generic [ref=e181]:
+              - generic [ref=e182]: 22K Hallmarked
+              - generic [ref=e184]: 32g approx.
+            - paragraph [ref=e185]: Price on request
+        - generic [ref=e186]:
+          - generic [ref=e187]:
+            - img "Bridal Kundan Set" [ref=e188]
+            - generic [ref=e190]: Bridal Favourite
+            - link "Enquire About This Piece" [ref=e192]:
+              - /url: https://wa.me/919077000064?text=I%20am%20interested%20in%3A%20Bridal%20Kundan%20Set.%20Can%20you%20share%20the%20price%3F
+          - generic [ref=e193]:
+            - text: Bridal
+            - heading "Bridal Kundan Set" [level=4] [ref=e194]
+            - generic [ref=e195]:
+              - generic [ref=e196]: 22K Gold with Kundan
+              - generic [ref=e198]: 85g approx.
+            - paragraph [ref=e199]: Price on request
+        - generic [ref=e200]:
+          - generic [ref=e201]:
+            - img "Turkish Chain Necklace" [ref=e202]
+            - generic [ref=e204]: Trending
+            - link "Enquire About This Piece" [ref=e206]:
+              - /url: https://wa.me/919077000064?text=I%20am%20interested%20in%3A%20Turkish%20Chain%20Necklace.%20Can%20you%20share%20the%20price%3F
+          - generic [ref=e207]:
+            - text: Gold
+            - heading "Turkish Chain Necklace" [level=4] [ref=e208]
+            - generic [ref=e209]:
+              - generic [ref=e210]: 21K Hallmarked
+              - generic [ref=e212]: 24g approx.
+            - paragraph [ref=e213]: Price on request
+    - generic [ref=e215]:
+      - generic [ref=e216]:
+        - generic [ref=e219]: Our Heritage
+        - heading "A Legacy Built on Trust" [level=2] [ref=e220]
+      - generic [ref=e221]:
+        - img "Inside Anas and Sons Jewellers" [ref=e224]
+        - generic [ref=e226]:
+          - paragraph [ref=e227]: "“In 1988, we opened our doors with a simple promise: honest gold, fair prices, and respect for every customer who walks in.”"
+          - paragraph [ref=e229]: Three generations later, that promise still holds. What started as a small family shop has grown into Okhla's largest jewellery showroom, trusted by thousands of families for their weddings, celebrations, and everyday elegance.
+          - paragraph [ref=e230]: Every piece in our collection, from Turkish gold designs to certified diamond sets, carries the care and precision that comes from nearly 40 years of experience. We do not simply sell jewellery. We help families find pieces that become part of their story.
+      - generic [ref=e231]:
+        - generic [ref=e232]: The Journey
+        - generic [ref=e233]:
+          - generic [ref=e238]:
+            - text: "1988"
+            - heading "The Beginning" [level=4] [ref=e239]
+            - paragraph [ref=e240]: A small family shop opens in the heart of Batla House, built on a promise of honest gold and fair prices.
+          - generic [ref=e244]:
+            - text: "1998"
+            - heading "A Decade of Trust" [level=4] [ref=e245]
+            - paragraph [ref=e246]: Word of mouth grows the business. Families from across Okhla, Jamia Nagar, and beyond become loyal customers.
+          - generic [ref=e250]:
+            - text: "2008"
+            - heading "Expanding the Collection" [level=4] [ref=e251]
+            - paragraph [ref=e252]: Turkish and Italian gold designs are introduced. The shop becomes known for styles not found anywhere else in the area.
+          - generic [ref=e256]:
+            - text: "2018"
+            - heading "Three Decades Strong" [level=4] [ref=e257]
+            - paragraph [ref=e258]: Diamond and silver collections are added. The second generation takes an active role in the family business.
+          - generic [ref=e262]:
+            - text: "2025"
+            - heading "The New Showroom" [level=4] [ref=e263]
+            - paragraph [ref=e264]: Anas and Sons Jewellers opens Okhla's largest jewellery showroom. A grand inauguration marks a new chapter.
+          - generic [ref=e268]:
+            - text: Today
+            - heading "The Legacy Continues" [level=4] [ref=e269]
+            - paragraph [ref=e270]: Three generations. Thousands of families. One name they trust. The art of timeless luxury continues.
+      - generic [ref=e271]:
+        - generic [ref=e272]:
+          - generic [ref=e273]: "1988"
+          - generic [ref=e274]: Established
+          - generic [ref=e275]: Nearly four decades of trust
+        - generic [ref=e276]:
+          - generic [ref=e277]: 2,700+
+          - generic [ref=e278]: Happy Families
+          - generic [ref=e279]: And growing every single day
+        - generic [ref=e280]:
+          - generic [ref=e281]: 10,000+
+          - generic [ref=e282]: Unique Designs
+          - generic [ref=e283]: Okhla's largest variety
+        - generic [ref=e284]:
+          - generic [ref=e285]: 100%
+          - generic [ref=e286]: BIS Hallmarked
+          - generic [ref=e287]: Certified purity, always
+    - generic [ref=e289]:
+      - generic [ref=e290]:
+        - generic [ref=e291]:
+          - generic [ref=e294]: From Our Instagram
+          - heading "The Gallery" [level=2] [ref=e295]
+        - link "Follow Us" [ref=e296]:
+          - /url: https://www.instagram.com/anasandsonsjewellers.co/
+          - img [ref=e297]
+          - text: Follow Us
+      - generic [ref=e299]:
+        - generic [ref=e300] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 1" [ref=e301]
+          - img [ref=e305]
+        - generic [ref=e307] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 2" [ref=e308]
+          - img [ref=e312]
+        - generic:
+          - img "Anas and Sons Jewellers 3"
+          - img [ref=e315] [cursor=pointer]
+        - generic:
+          - img "Anas and Sons Jewellers 4"
+          - img [ref=e318] [cursor=pointer]
+        - generic:
+          - img "Anas and Sons Jewellers 5"
+          - img [ref=e321] [cursor=pointer]
+        - generic [ref=e323] [cursor=pointer]:
+          - img "Anas and Sons Jewellers 6" [ref=e324]
+          - img [ref=e328]
+        - generic:
+          - img "Anas and Sons Jewellers 7"
+          - img [ref=e331] [cursor=pointer]
+        - generic:
+          - img "Anas and Sons Jewellers 8"
+          - img [ref=e334] [cursor=pointer]
+        - generic:
+          - img "Anas and Sons Jewellers 9"
+          - img [ref=e337] [cursor=pointer]
+        - generic:
+          - img "Anas and Sons Jewellers 10"
+          - img [ref=e340] [cursor=pointer]
+        - generic:
+          - img "Anas and Sons Jewellers 11"
+          - img [ref=e343] [cursor=pointer]
+        - generic:
+          - img "Anas and Sons Jewellers 12"
+          - img [ref=e346] [cursor=pointer]
+        - generic:
+          - img "Anas and Sons Jewellers 13"
+          - img [ref=e349] [cursor=pointer]
+        - generic:
+          - img "Anas and Sons Jewellers 14"
+          - img [ref=e352] [cursor=pointer]
+        - generic:
+          - img "Anas and Sons Jewellers 15"
+        - generic:
+          - img "Anas and Sons Jewellers 16"
+    - generic [ref=e357]:
+      - generic [ref=e358]:
+        - generic [ref=e361]: Voices of Trust
+        - heading "What Our Families Say" [level=2] [ref=e362]
+      - generic [ref=e363]:
+        - generic [ref=e364]:
+          - generic [ref=e365]:
+            - img [ref=e366]
+            - img [ref=e368]
+            - img [ref=e370]
+            - img [ref=e372]
+            - img [ref=e374]
+          - paragraph [ref=e376]: “We bought our entire wedding set from Anas Jewellers. The quality and variety is unmatched in the area. They treated us like family.”
+          - generic [ref=e377]:
+            - generic [ref=e379]: A
+            - generic [ref=e380]:
+              - generic [ref=e381]: Ayesha K.
+              - generic [ref=e382]: Wedding
+        - generic [ref=e383]:
+          - generic [ref=e384]:
+            - img [ref=e385]
+            - img [ref=e387]
+            - img [ref=e389]
+            - img [ref=e391]
+            - img [ref=e393]
+          - paragraph [ref=e395]: “Been buying gold from Anas bhai since my father's time. Three generations of trust. The new showroom is beautiful.”
+          - generic [ref=e396]:
+            - generic [ref=e398]: M
+            - generic [ref=e399]:
+              - generic [ref=e400]: Mohd. Irfan
+              - generic [ref=e401]: Family
+        - generic [ref=e402]:
+          - generic [ref=e403]:
+            - img [ref=e404]
+            - img [ref=e406]
+            - img [ref=e408]
+            - img [ref=e410]
+            - img [ref=e412]
+          - paragraph [ref=e414]: “Their Italian gold designs are stunning. I came for one piece and left with three. The staff is very helpful and patient.”
+          - generic [ref=e415]:
+            - generic [ref=e417]: S
+            - generic [ref=e418]:
+              - generic [ref=e419]: Sana R.
+              - generic [ref=e420]: Self Purchase
+        - generic [ref=e421]:
+          - generic [ref=e422]:
+            - img [ref=e423]
+            - img [ref=e425]
+            - img [ref=e427]
+            - img [ref=e429]
+            - img [ref=e431]
+          - paragraph [ref=e433]: “Bought an engagement ring here. They helped me choose the perfect diamond within my budget. Exceptional service.”
+          - generic [ref=e434]:
+            - generic [ref=e436]: D
+            - generic [ref=e437]:
+              - generic [ref=e438]: Dr. Farhan A.
+              - generic [ref=e439]: Engagement
+      - paragraph [ref=e440]: Sample reviews. Ask us to replace with your real customer feedback.
+    - generic [ref=e442]:
+      - generic [ref=e443]:
+        - generic [ref=e444]: Knowledge
+        - heading "Good to Know" [level=2] [ref=e445]
+      - generic [ref=e446]:
+        - generic [ref=e447]:
+          - button "What types of jewellery do you offer?" [ref=e448]:
+            - generic [ref=e449]: What types of jewellery do you offer?
+          - paragraph [ref=e454]: We carry a wide range of gold (18K to 22K), diamond, and silver jewellery. Our collection includes Turkish designs, Italian pieces, antique treasures, infinity designs, and complete bridal sets.
+        - generic [ref=e455]:
+          - button "Is your gold BIS Hallmarked?" [ref=e456]:
+            - generic [ref=e457]: Is your gold BIS Hallmarked?
+          - paragraph [ref=e461]: Yes, all our gold jewellery is BIS Hallmarked, which means you get certified purity with every purchase. We believe in complete transparency.
+        - generic [ref=e462]:
+          - button "Do you offer custom jewellery designs?" [ref=e463]:
+            - generic [ref=e464]: Do you offer custom jewellery designs?
+          - paragraph [ref=e468]: Absolutely. Bring us your idea, a photo, or even a sketch, and our craftsmen will bring it to life. Custom orders typically take 7 to 14 working days.
+        - generic [ref=e469]:
+          - button "What is your exchange and buyback policy?" [ref=e470]:
+            - generic [ref=e471]: What is your exchange and buyback policy?
+          - paragraph [ref=e475]: We offer lifetime exchange on gold jewellery purchased from our store. For buyback, we offer the best rates based on current gold prices. Bring your bill and original jewellery.
+        - generic [ref=e476]:
+          - button "Do you offer EMI or payment plans?" [ref=e477]:
+            - generic [ref=e478]: Do you offer EMI or payment plans?
+          - paragraph [ref=e482]: Please visit our showroom or call us to discuss payment options. We are happy to work with you on larger purchases.
+        - generic [ref=e483]:
+          - button "Where is your showroom located?" [ref=e484]:
+            - generic [ref=e485]: Where is your showroom located?
+          - paragraph [ref=e489]: We are located at Shop No. 334E/1, Main Road, Batla House, Okhla, Jamia Nagar, New Delhi 110025. We are easy to find on Google Maps.
+    - generic [ref=e491]:
+      - generic [ref=e492]:
+        - generic [ref=e495]: The Showroom
+        - heading "Visit Us" [level=2] [ref=e496]
+      - generic [ref=e500]:
+        - text: Grand Showroom
+        - heading "Okhla's Largest" [level=3] [ref=e501]
+      - generic [ref=e502]:
+        - generic [ref=e503]:
+          - img [ref=e505]
+          - heading "Address" [level=4] [ref=e508]
+          - paragraph [ref=e509]:
+            - text: Shop No. 334E/1, Main Road, Batla House
+            - text: Okhla, Jamia Nagar
+            - text: New Delhi 110025
+          - link "Get Directions →" [ref=e510] [cursor=pointer]:
+            - /url: https://maps.app.goo.gl/CytEJAVAhhocMwrD8?g_st=ic
+        - generic [ref=e511]:
+          - img [ref=e513]
+          - heading "Store Hours" [level=4] [ref=e515]
+          - generic [ref=e516]:
+            - generic [ref=e517]:
+              - generic [ref=e518]: Mon to Thu
+              - generic [ref=e519]: 10:00 AM - 9:00 PM
+            - generic [ref=e520]:
+              - generic [ref=e521]: Friday
+              - generic [ref=e522]: 2:30 PM - 9:00 PM
+            - generic [ref=e523]:
+              - generic [ref=e524]: Sat & Sun
+              - generic [ref=e525]: 10:00 AM - 9:00 PM
+          - paragraph [ref=e526]: Please call to confirm hours.
+        - generic [ref=e527]:
+          - img [ref=e529]
+          - heading "Contact" [level=4] [ref=e531]
+          - link "+91 90770 00064" [ref=e532] [cursor=pointer]:
+            - /url: tel:+919077000064
+          - link "@anasandsonsjewellers.co" [ref=e533] [cursor=pointer]:
+            - /url: https://www.instagram.com/anasandsonsjewellers.co/
+      - iframe [ref=e535]
+    - generic [ref=e539]:
+      - generic [ref=e540]:
+        - generic [ref=e541]: Get in Touch
+        - heading "Begin Your Journey" [level=2] [ref=e542]
+        - paragraph [ref=e544]: Whether you are looking for a wedding set, a gift, or something special for yourself, we are here to guide you to the perfect piece.
+      - generic [ref=e545]:
+        - link "WhatsApp Us" [ref=e546]:
+          - /url: https://wa.me/919077000064?text=Hi%2C%20I%20saw%20your%20website%20and%20I%20am%20interested%20in%20your%20jewellery%20collection.%20Can%20you%20help%20me%3F
+          - img [ref=e547]
+          - text: WhatsApp Us
+        - link "Call +91 90770 00064" [ref=e549]:
+          - /url: tel:+919077000064
+  - contentinfo [ref=e550]:
+    - generic [ref=e551]:
+      - generic [ref=e552]:
+        - generic [ref=e553]:
+          - heading "Anas & Sons" [level=3] [ref=e554]
+          - paragraph [ref=e555]: Jewellers . Since 1988
+          - paragraph [ref=e556]: The Art of Timeless Luxury. Nearly four decades of craftsmanship, trust, and timeless beauty.
+        - generic [ref=e557]:
+          - heading "Navigate" [level=4] [ref=e558]
+          - generic [ref=e559]:
+            - link "Collections" [ref=e560] [cursor=pointer]:
+              - /url: "#collections"
+            - link "Gallery" [ref=e561] [cursor=pointer]:
+              - /url: "#gallery"
+            - link "Heritage" [ref=e562] [cursor=pointer]:
+              - /url: "#heritage"
+            - link "Showroom" [ref=e563] [cursor=pointer]:
+              - /url: "#showroom"
+            - link "Contact" [ref=e564] [cursor=pointer]:
+              - /url: "#contact"
+        - generic [ref=e565]:
+          - heading "Contact" [level=4] [ref=e566]
+          - generic [ref=e567]:
+            - link "+91 90770 00064" [ref=e568] [cursor=pointer]:
+              - /url: tel:+919077000064
+            - link "Instagram" [ref=e569] [cursor=pointer]:
+              - /url: https://www.instagram.com/anasandsonsjewellers.co/
+            - link "Google Maps" [ref=e570] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/CytEJAVAhhocMwrD8?g_st=ic
+        - generic [ref=e571]:
+          - heading "Showroom" [level=4] [ref=e572]
+          - paragraph [ref=e573]:
+            - text: Shop No. 334E/1, Main Road, Batla House
+            - text: Okhla, Jamia Nagar
+            - text: New Delhi 110025
+      - generic [ref=e574]:
+        - paragraph [ref=e575]: © 2026 Anas & Sons Jewellers
+        - paragraph [ref=e576]: Crafted with care
+  - link "Chat on WhatsApp" [ref=e578] [cursor=pointer]:
+    - /url: https://wa.me/919077000064?text=Hi%2C%20I%20saw%20your%20website%20and%20I%20am%20interested%20in%20your%20jewellery%20collection.%20Can%20you%20help%20me%3F
+    - img [ref=e579]
+  - button "AI Jewellery Assistant" [ref=e581]:
+    - img [ref=e582]
+  - button "Open Next.js Dev Tools" [ref=e589] [cursor=pointer]:
+    - img [ref=e590]
+  - alert [ref=e593]
