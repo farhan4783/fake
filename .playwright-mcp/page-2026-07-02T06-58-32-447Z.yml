@@ -1,0 +1,475 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img [ref=e3]
+    - generic [ref=e5]:
+      - generic [ref=e6]: Anas & Sons
+      - generic [ref=e7]: Jewellers
+  - navigation [ref=e9]:
+    - generic [ref=e10]:
+      - link "Anas & Sons Jewellers . Since 1988" [ref=e11] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e12]: Anas & Sons
+        - generic [ref=e13]: Jewellers . Since 1988
+      - generic [ref=e14]:
+        - link "Collections" [ref=e15] [cursor=pointer]:
+          - /url: /#collections
+          - text: Collections
+        - link "Catalog" [ref=e16] [cursor=pointer]:
+          - /url: /catalog
+          - text: Catalog
+        - link "Atelier" [ref=e17] [cursor=pointer]:
+          - /url: /#featured
+          - text: Atelier
+        - link "Heritage" [ref=e18] [cursor=pointer]:
+          - /url: /#heritage
+          - text: Heritage
+        - link "Gallery" [ref=e19] [cursor=pointer]:
+          - /url: /#gallery
+          - text: Gallery
+        - link "Showroom" [ref=e20] [cursor=pointer]:
+          - /url: /#showroom
+          - text: Showroom
+        - link "Contact" [ref=e21] [cursor=pointer]:
+          - /url: /#contact
+          - text: Contact
+      - link "Enquire" [ref=e23] [cursor=pointer]:
+        - /url: https://wa.me/919953656749?text=Hi%2C%20I%20saw%20your%20website%20and%20I%20am%20interested%20in%20your%20jewellery%20collection.%20Can%20you%20help%20me%3F
+        - text: Enquire
+  - main [ref=e25]:
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - generic [ref=e32]: Luxury Showroom
+          - heading "The Atelier Catalog" [level=2] [ref=e33]
+          - paragraph [ref=e34]: Browse Okhla's largest collection of fine gold, diamond, and sterling silver ornaments, crafted for generations.
+        - button "Reset All Filters" [ref=e35]
+      - generic [ref=e37]:
+        - button "All Masterpieces" [ref=e38]
+        - button "Rings" [ref=e39]
+        - button "Earrings" [ref=e40]
+        - button "Pendants" [ref=e41]
+        - button "Bangles & Bracelets" [ref=e42]
+        - button "Necklaces" [ref=e43]
+      - generic [ref=e44]:
+        - complementary [ref=e45]:
+          - generic [ref=e46]:
+            - heading "Refine Pieces" [level=3] [ref=e47]
+            - generic [ref=e48]:
+              - textbox "Search catalog..." [ref=e49]
+              - img [ref=e50]
+            - generic [ref=e52]:
+              - button "Metal / Material" [ref=e53]:
+                - generic [ref=e54]: Metal / Material
+                - img [ref=e55]
+              - generic [ref=e57]:
+                - generic [ref=e58] [cursor=pointer]:
+                  - checkbox "gold" [ref=e59]
+                  - generic [ref=e60]: gold
+                - generic [ref=e61] [cursor=pointer]:
+                  - checkbox "diamond" [ref=e62]
+                  - generic [ref=e63]: diamond
+                - generic [ref=e64] [cursor=pointer]:
+                  - checkbox "silver" [ref=e65]
+                  - generic [ref=e66]: silver
+            - generic [ref=e67]:
+              - button "Price Range" [ref=e68]:
+                - generic [ref=e69]: Price Range
+                - img [ref=e70]
+              - generic [ref=e72]:
+                - generic [ref=e73] [cursor=pointer]:
+                  - checkbox "Under ₹25,000" [ref=e74]
+                  - generic [ref=e75]: Under ₹25,000
+                - generic [ref=e76] [cursor=pointer]:
+                  - checkbox "₹25,000 - ₹50,000" [ref=e77]
+                  - generic [ref=e78]: ₹25,000 - ₹50,000
+                - generic [ref=e79] [cursor=pointer]:
+                  - checkbox "₹50,000 - ₹1,00,000" [ref=e80]
+                  - generic [ref=e81]: ₹50,000 - ₹1,00,000
+                - generic [ref=e82] [cursor=pointer]:
+                  - checkbox "Over ₹1,00,000" [ref=e83]
+                  - generic [ref=e84]: Over ₹1,00,000
+            - generic [ref=e85]:
+              - button "Gender / Styling" [ref=e86]:
+                - generic [ref=e87]: Gender / Styling
+                - img [ref=e88]
+              - generic [ref=e90]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - checkbox "women" [ref=e92]
+                  - generic [ref=e93]: women
+                - generic [ref=e94] [cursor=pointer]:
+                  - checkbox "men" [ref=e95]
+                  - generic [ref=e96]: men
+                - generic [ref=e97] [cursor=pointer]:
+                  - checkbox "unisex" [ref=e98]
+                  - generic [ref=e99]: unisex
+                - generic [ref=e100] [cursor=pointer]:
+                  - checkbox "kids" [ref=e101]
+                  - generic [ref=e102]: kids
+        - generic [ref=e103]:
+          - generic [ref=e105]:
+            - generic [ref=e106]: "Sort:"
+            - combobox [ref=e107] [cursor=pointer]:
+              - option "Popularity" [selected]
+              - 'option "Price: Low to High"'
+              - 'option "Price: High to Low"'
+              - 'option "Weight: Heavy to Light"'
+          - generic [ref=e108]: Showing 20 of 20 masterworks
+          - generic [ref=e109]:
+            - generic [ref=e110] [cursor=pointer]:
+              - generic [ref=e111]:
+                - img "Heritage Kundan Bridal Haar" [ref=e112]
+                - generic [ref=e114]: Bestseller
+                - generic [ref=e115]:
+                  - generic [ref=e116]: 22K
+                  - generic [ref=e117]: 74.8g
+              - generic [ref=e118]:
+                - generic [ref=e119]:
+                  - generic [ref=e120]: necklaces
+                  - heading "Heritage Kundan Bridal Haar" [level=4] [ref=e121]
+                - generic [ref=e122]:
+                  - generic [ref=e123]:
+                    - generic [ref=e124]: Est. Price
+                    - generic [ref=e125]: ₹5,40,000 approx.
+                  - img [ref=e127]
+            - generic [ref=e129] [cursor=pointer]:
+              - generic [ref=e130]:
+                - img "Minimalist Diamond Studs" [ref=e131]
+                - generic [ref=e133]: Bestseller
+                - generic [ref=e134]:
+                  - generic [ref=e135]: 18K
+                  - generic [ref=e136]: 4.2g
+              - generic [ref=e137]:
+                - generic [ref=e138]:
+                  - generic [ref=e139]: earrings
+                  - heading "Minimalist Diamond Studs" [level=4] [ref=e140]
+                - generic [ref=e141]:
+                  - generic [ref=e142]:
+                    - generic [ref=e143]: Est. Price
+                    - generic [ref=e144]: ₹95,000
+                  - img [ref=e146]
+            - generic [ref=e148] [cursor=pointer]:
+              - generic [ref=e149]:
+                - img "Floral Diamond Cluster Ring" [ref=e150]
+                - generic [ref=e152]: Bestseller
+                - generic [ref=e153]:
+                  - generic [ref=e154]: 18K
+                  - generic [ref=e155]: 3.8g
+              - generic [ref=e156]:
+                - generic [ref=e157]:
+                  - generic [ref=e158]: rings
+                  - heading "Floral Diamond Cluster Ring" [level=4] [ref=e159]
+                - generic [ref=e160]:
+                  - generic [ref=e161]:
+                    - generic [ref=e162]: Est. Price
+                    - generic [ref=e163]: ₹75,000
+                  - img [ref=e165]
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e168]:
+                - img "Heritage Gold Kada Set" [ref=e169]
+                - generic [ref=e171]: Bestseller
+                - generic [ref=e172]:
+                  - generic [ref=e173]: 22K
+                  - generic [ref=e174]: 44.2g
+              - generic [ref=e175]:
+                - generic [ref=e176]:
+                  - generic [ref=e177]: bangles
+                  - heading "Heritage Gold Kada Set" [level=4] [ref=e178]
+                - generic [ref=e179]:
+                  - generic [ref=e180]:
+                    - generic [ref=e181]: Est. Price
+                    - generic [ref=e182]: ₹3,10,000 (Pair) approx.
+                  - img [ref=e184]
+            - generic [ref=e186] [cursor=pointer]:
+              - generic [ref=e187]:
+                - img "Emerald Luxury Gold Choker" [ref=e188]
+                - generic [ref=e190]: Trending
+                - generic [ref=e191]:
+                  - generic [ref=e192]: 22K
+                  - generic [ref=e193]: 38.6g
+              - generic [ref=e194]:
+                - generic [ref=e195]:
+                  - generic [ref=e196]: necklaces
+                  - heading "Emerald Luxury Gold Choker" [level=4] [ref=e197]
+                - generic [ref=e198]:
+                  - generic [ref=e199]:
+                    - generic [ref=e200]: Est. Price
+                    - generic [ref=e201]: ₹2,85,000
+                  - img [ref=e203]
+            - generic [ref=e205] [cursor=pointer]:
+              - generic [ref=e206]:
+                - img "Blue Sapphire Solitaire Ring" [ref=e207]
+                - generic [ref=e209]: Trending
+                - generic [ref=e210]:
+                  - generic [ref=e211]: 18K
+                  - generic [ref=e212]: 4.5g
+              - generic [ref=e213]:
+                - generic [ref=e214]:
+                  - generic [ref=e215]: rings
+                  - heading "Blue Sapphire Solitaire Ring" [level=4] [ref=e216]
+                - generic [ref=e217]:
+                  - generic [ref=e218]:
+                    - generic [ref=e219]: Est. Price
+                    - generic [ref=e220]: ₹1,35,000
+                  - img [ref=e222]
+            - generic [ref=e224] [cursor=pointer]:
+              - generic [ref=e225]:
+                - img "Exquisite Gold Gemstone Bangles" [ref=e226]
+                - generic [ref=e228]: Trending
+                - generic [ref=e229]:
+                  - generic [ref=e230]: 22K
+                  - generic [ref=e231]: 32.4g
+              - generic [ref=e232]:
+                - generic [ref=e233]:
+                  - generic [ref=e234]: bangles
+                  - heading "Exquisite Gold Gemstone Bangles" [level=4] [ref=e235]
+                - generic [ref=e236]:
+                  - generic [ref=e237]:
+                    - generic [ref=e238]: Est. Price
+                    - generic [ref=e239]: ₹2,40,000 approx.
+                  - img [ref=e241]
+            - generic [ref=e243] [cursor=pointer]:
+              - generic [ref=e244]:
+                - img "Diamond Solitaire Necklace Set" [ref=e245]
+                - generic [ref=e247]: New Arrival
+                - generic [ref=e248]:
+                  - generic [ref=e249]: 18K
+                  - generic [ref=e250]: 62.0g
+              - generic [ref=e251]:
+                - generic [ref=e252]:
+                  - generic [ref=e253]: necklaces
+                  - heading "Diamond Solitaire Necklace Set" [level=4] [ref=e254]
+                - generic [ref=e255]:
+                  - generic [ref=e256]:
+                    - generic [ref=e257]: Est. Price
+                    - generic [ref=e258]: ₹4,80,000 approx.
+                  - img [ref=e260]
+            - generic [ref=e262] [cursor=pointer]:
+              - generic [ref=e263]:
+                - img "Emerald & Diamond Silver Drops" [ref=e264]
+                - generic [ref=e266]: New Arrival
+                - generic [ref=e267]:
+                  - generic [ref=e268]: 18K
+                  - generic [ref=e269]: 14.5g
+              - generic [ref=e270]:
+                - generic [ref=e271]:
+                  - generic [ref=e272]: earrings
+                  - heading "Emerald & Diamond Silver Drops" [level=4] [ref=e273]
+                - generic [ref=e274]:
+                  - generic [ref=e275]:
+                    - generic [ref=e276]: Est. Price
+                    - generic [ref=e277]: ₹2,10,000
+                  - img [ref=e279]
+            - generic [ref=e281] [cursor=pointer]:
+              - generic [ref=e282]:
+                - img "Gold & Gemstone Kada Pair" [ref=e283]
+                - generic [ref=e285]: New Arrival
+                - generic [ref=e286]:
+                  - generic [ref=e287]: 22K
+                  - generic [ref=e288]: 26.8g
+              - generic [ref=e289]:
+                - generic [ref=e290]:
+                  - generic [ref=e291]: bangles
+                  - heading "Gold & Gemstone Kada Pair" [level=4] [ref=e292]
+                - generic [ref=e293]:
+                  - generic [ref=e294]:
+                    - generic [ref=e295]: Est. Price
+                    - generic [ref=e296]: ₹1,80,000
+                  - img [ref=e298]
+            - generic [ref=e300] [cursor=pointer]:
+              - generic [ref=e301]:
+                - img "Luxury Showroom Display Set" [ref=e302]
+                - generic [ref=e304]: Popular
+                - generic [ref=e305]:
+                  - generic [ref=e306]: 22K
+                  - generic [ref=e307]: 85.2g
+              - generic [ref=e308]:
+                - generic [ref=e309]:
+                  - generic [ref=e310]: necklaces
+                  - heading "Luxury Showroom Display Set" [level=4] [ref=e311]
+                - generic [ref=e312]:
+                  - generic [ref=e313]:
+                    - generic [ref=e314]: Est. Price
+                    - generic [ref=e315]: ₹4,20,000 approx.
+                  - img [ref=e317]
+            - generic [ref=e319] [cursor=pointer]:
+              - generic [ref=e320]:
+                - img "Royal Pearl Chandelier Earrings" [ref=e321]
+                - generic [ref=e323]: Popular
+                - generic [ref=e324]:
+                  - generic [ref=e325]: 22K
+                  - generic [ref=e326]: 22.8g
+              - generic [ref=e327]:
+                - generic [ref=e328]:
+                  - generic [ref=e329]: earrings
+                  - heading "Royal Pearl Chandelier Earrings" [level=4] [ref=e330]
+                - generic [ref=e331]:
+                  - generic [ref=e332]:
+                    - generic [ref=e333]: Est. Price
+                    - generic [ref=e334]: ₹1,50,000
+                  - img [ref=e336]
+            - generic [ref=e338] [cursor=pointer]:
+              - generic [ref=e339]:
+                - img "Atelier Diamond Loop Pendant" [ref=e340]
+                - generic [ref=e342]: Popular
+                - generic [ref=e343]:
+                  - generic [ref=e344]: 18K
+                  - generic [ref=e345]: 3.5g
+              - generic [ref=e346]:
+                - generic [ref=e347]:
+                  - generic [ref=e348]: pendants
+                  - heading "Atelier Diamond Loop Pendant" [level=4] [ref=e349]
+                - generic [ref=e350]:
+                  - generic [ref=e351]:
+                    - generic [ref=e352]: Est. Price
+                    - generic [ref=e353]: ₹58,000
+                  - img [ref=e355]
+            - generic [ref=e357] [cursor=pointer]:
+              - generic [ref=e358]:
+                - img "Pearl & Gold Heritage Haar" [ref=e359]
+                - generic [ref=e361]:
+                  - generic [ref=e362]: 22K
+                  - generic [ref=e363]: 52.4g
+              - generic [ref=e364]:
+                - generic [ref=e365]:
+                  - generic [ref=e366]: necklaces
+                  - heading "Pearl & Gold Heritage Haar" [level=4] [ref=e367]
+                - generic [ref=e368]:
+                  - generic [ref=e369]:
+                    - generic [ref=e370]: Est. Price
+                    - generic [ref=e371]: ₹3,65,000
+                  - img [ref=e373]
+            - generic [ref=e375] [cursor=pointer]:
+              - generic [ref=e376]:
+                - img "Turkish Textured Gold Chain" [ref=e377]
+                - generic [ref=e379]:
+                  - generic [ref=e380]: 21K
+                  - generic [ref=e381]: 18.5g
+              - generic [ref=e382]:
+                - generic [ref=e383]:
+                  - generic [ref=e384]: necklaces
+                  - heading "Turkish Textured Gold Chain" [level=4] [ref=e385]
+                - generic [ref=e386]:
+                  - generic [ref=e387]:
+                    - generic [ref=e388]: Est. Price
+                    - generic [ref=e389]: ₹1,25,000
+                  - img [ref=e391]
+            - generic [ref=e393] [cursor=pointer]:
+              - generic [ref=e394]:
+                - img "Gemstone Luxury Drop Earrings" [ref=e395]
+                - generic [ref=e397]:
+                  - generic [ref=e398]: 22K
+                  - generic [ref=e399]: 12.4g
+              - generic [ref=e400]:
+                - generic [ref=e401]:
+                  - generic [ref=e402]: earrings
+                  - heading "Gemstone Luxury Drop Earrings" [level=4] [ref=e403]
+                - generic [ref=e404]:
+                  - generic [ref=e405]:
+                    - generic [ref=e406]: Est. Price
+                    - generic [ref=e407]: ₹85,000
+                  - img [ref=e409]
+            - generic [ref=e411] [cursor=pointer]:
+              - generic [ref=e412]:
+                - img "Antique Indian Gold Ring" [ref=e413]
+                - generic [ref=e415]:
+                  - generic [ref=e416]: 22K
+                  - generic [ref=e417]: 6.8g
+              - generic [ref=e418]:
+                - generic [ref=e419]:
+                  - generic [ref=e420]: rings
+                  - heading "Antique Indian Gold Ring" [level=4] [ref=e421]
+                - generic [ref=e422]:
+                  - generic [ref=e423]:
+                    - generic [ref=e424]: Est. Price
+                    - generic [ref=e425]: ₹45,000
+                  - img [ref=e427]
+            - generic [ref=e429] [cursor=pointer]:
+              - generic [ref=e430]:
+                - img "Classic Gold Wedding Bands" [ref=e431]
+                - generic [ref=e433]:
+                  - generic [ref=e434]: 22K
+                  - generic [ref=e435]: 9.2g
+              - generic [ref=e436]:
+                - generic [ref=e437]:
+                  - generic [ref=e438]: rings
+                  - heading "Classic Gold Wedding Bands" [level=4] [ref=e439]
+                - generic [ref=e440]:
+                  - generic [ref=e441]:
+                    - generic [ref=e442]: Est. Price
+                    - generic [ref=e443]: ₹65,000 (Pair)
+                  - img [ref=e445]
+            - generic [ref=e447] [cursor=pointer]:
+              - generic [ref=e448]:
+                - img "Heart Solitaire Pendant" [ref=e449]
+                - generic [ref=e451]:
+                  - generic [ref=e452]: 18K
+                  - generic [ref=e453]: 2.4g
+              - generic [ref=e454]:
+                - generic [ref=e455]:
+                  - generic [ref=e456]: pendants
+                  - heading "Heart Solitaire Pendant" [level=4] [ref=e457]
+                - generic [ref=e458]:
+                  - generic [ref=e459]:
+                    - generic [ref=e460]: Est. Price
+                    - generic [ref=e461]: ₹32,000
+                  - img [ref=e463]
+            - generic [ref=e465] [cursor=pointer]:
+              - generic [ref=e466]:
+                - img "Bridal Gold Bangles Set" [ref=e467]
+                - generic [ref=e469]:
+                  - generic [ref=e470]: 22K
+                  - generic [ref=e471]: 39.5g
+              - generic [ref=e472]:
+                - generic [ref=e473]:
+                  - generic [ref=e474]: bangles
+                  - heading "Bridal Gold Bangles Set" [level=4] [ref=e475]
+                - generic [ref=e476]:
+                  - generic [ref=e477]:
+                    - generic [ref=e478]: Est. Price
+                    - generic [ref=e479]: ₹2,90,000 approx.
+                  - img [ref=e481]
+  - contentinfo [ref=e483]:
+    - generic [ref=e484]:
+      - generic [ref=e485]:
+        - generic [ref=e486]:
+          - heading "Anas & Sons" [level=3] [ref=e487]
+          - paragraph [ref=e488]: Jewellers . Since 1988
+          - paragraph [ref=e489]: The Art of Timeless Luxury. Nearly four decades of craftsmanship, trust, and timeless beauty.
+        - generic [ref=e490]:
+          - heading "Navigate" [level=4] [ref=e491]
+          - generic [ref=e492]:
+            - link "Collections" [ref=e493] [cursor=pointer]:
+              - /url: "#collections"
+            - link "Gallery" [ref=e494] [cursor=pointer]:
+              - /url: "#gallery"
+            - link "Heritage" [ref=e495] [cursor=pointer]:
+              - /url: "#heritage"
+            - link "Showroom" [ref=e496] [cursor=pointer]:
+              - /url: "#showroom"
+            - link "Contact" [ref=e497] [cursor=pointer]:
+              - /url: "#contact"
+        - generic [ref=e498]:
+          - heading "Contact" [level=4] [ref=e499]
+          - generic [ref=e500]:
+            - link "+91 99536 56749" [ref=e501] [cursor=pointer]:
+              - /url: tel:+919953656749
+            - link "Instagram" [ref=e502] [cursor=pointer]:
+              - /url: https://www.instagram.com/anasandsonsjewellers.co/
+            - link "Google Maps" [ref=e503] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/CytEJAVAhhocMwrD8?g_st=ic
+        - generic [ref=e504]:
+          - heading "Showroom" [level=4] [ref=e505]
+          - paragraph [ref=e506]:
+            - text: Shop No. 334E/1, Main Road, Batla House
+            - text: Okhla, Jamia Nagar
+            - text: New Delhi 110025
+      - generic [ref=e507]:
+        - paragraph [ref=e508]: © 2026 Anas & Sons Jewellers
+        - paragraph [ref=e509]: Crafted with care
+  - link "Chat on WhatsApp" [ref=e511] [cursor=pointer]:
+    - /url: https://wa.me/919953656749?text=Hi%2C%20I%20saw%20your%20website%20and%20I%20am%20interested%20in%20your%20jewellery%20collection.%20Can%20you%20help%20me%3F
+    - img [ref=e512]
+  - button "AI Jewellery Assistant" [ref=e514]:
+    - img [ref=e515]
+  - button "Open Next.js Dev Tools" [ref=e522] [cursor=pointer]:
+    - img [ref=e523]
